@@ -5,7 +5,7 @@
     <link>https://example.com/tag/deep-learning/</link>
       <atom:link href="https://example.com/tag/deep-learning/index.xml" rel="self" type="application/rss+xml" />
     <description>Deep Learning</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 25 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Deep Learning</title>
@@ -13,15 +13,171 @@
     </image>
     
     <item>
-      <title>Example Project</title>
+      <title>Проект &#34;Энергоэффективная школа&#34;</title>
       <link>https://example.com/project/example/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 25 Dec 2020 00:00:00 +0000</pubDate>
       <guid>https://example.com/project/example/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+      <description>&lt;h2 id=&#34;описание-проекта&#34;&gt;ОПИСАНИЕ ПРОЕКТА&lt;/h2&gt;
+&lt;p&gt;В последние годы администрация нашего района и республики предпринимают комплекс мер, направленных на стимулирование процессов энергосбережения, а именно установка новых счетчиков, повышение тарифов на потребление энергоресурсов на региональном уровне, борьба с неплательщиками и т.д. Однако, этого недостаточно для решения проблемы. Равнодушие и нежелание нести ответственность, за что бы то ни было в принципе – это болезнь современного общества. Школа продолжает развивать ответственное отношение учащихся к природе, соблюдение нравственных и правовых принципов природопользования, а так же активизирует гражданскую сознательность.&lt;/p&gt;
+&lt;p&gt;В соответствии со статьёй 24 ФЗ № 261 начиная с 1 января 2010 года школа обязана обеспечить снижение в сопоставимых условиях объёма потреблённой воды, дизельного и другого топлива, мазута, природного газа, тепловой, электрической энергии, угля в течение пяти лет не менее чем на 15% от объёма фактически потреблённого ею в 2009 г. каждого из указанных ресурсов с ежегодным снижением такого объёма не менее чем на 3%. Работая над проблемой энергосбережения, мы думали о снижении объёма потребляемой энергии, также научиться решать проблему энергосбережения. Мною был проведён мониторинг школы, в которой я учусь на основании «Декларации за 2015 год учреждения &amp;ldquo;МБОУ &amp;ldquo;Курумканская средняя общеобразовательная школа №1&amp;quot;&amp;rdquo; Информация о потреблении энергетических ресурсов в здании, строении, сооружении /Учебный корпус/»&lt;/p&gt;
+&lt;p&gt;В 2015 году Курумканской СОШ № 1 было затрачено:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Тепловая энергия - 1253 Гкл. на общую сумму 5647 млн.руб.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Электроэнергия – 56838 кВт. на общую сумму 335344 руб.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;В школе имеется 338 шт. ламп накаливания, что составляет 74% от общей массы всех ламп в школе. Также в школе имеется устаревшее кухонное оборудование, которое несёт дополнительные расходы на электроэнергию, потому что на приготовление пищи нужен дополнительный разогрев плиты. Нет утепления крыши, но при этом имеется утеплённый подвал. И наша школа находится на пониженном классе энергетической и экологической эффективности здания E= 37.121.&lt;/p&gt;
+&lt;p&gt;Выявлены причины создавшейся ситуации в школе:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;В 2015 году не были внедрены программы по энергосбережению.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;По современным стандартам не соответствует освещенность некоторых комнат, подсобных помещений и др. объектов; проводка старая, не все лампы накаливания заменены на люминесцентные.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Продолжительность потребления электроэнергии на освещение составляет 9 часов в сутки ;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Внедрение в процесс обучения информационных технологий (увеличилось число компьютеров -2,  что так же увеличило расход электрополя. Для решения данной проблемы предполагается заменить лампы накаливания на энергосберегающие источники освещения.)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;СТАТЬИ СМЕНЫ&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Запрашиваемые средства:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Энергосберегающие лампы- 338 шт.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Замена ламп на датчики движения – 32 шт.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Замена старых кухонных плит на индукционные – 4 шт.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;как-сэкономить-энергоресурсы&#34;&gt;КАК СЭКОНОМИТЬ ЭНЕРГОРЕСУРСЫ:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Утепление чердачных и подвальных помещений (ремонт теплоизоляции систем отопления).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Утепление фасадов, входных дверей и окон (или их замена).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Перевод отопления на дежурный режим во внерабочее время.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Осуществлять своевременную плановую проверку приборов учета; в случае выхода из строя и неполадок не допускать предъявление счетов по установленной мощности;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Отслеживать работу систем учета и регулирования,&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Осуществлять контроль за правильной эксплуатацией холодильного оборудования;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Осуществлять своевременную замену и ремонт неисправных кранов, сантехники, технологического оборудования&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Проводить инструктаж по контролю за расходованием электроэнергии, холодной воды, компьютерной и иной техники.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Осуществлять контроль за расходованием электроэнергии, правильной эксплуатацией электроприборов;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Обеспечить соблюдение графика светового режима в помещениях и на территории.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Заменить лампы накаливания на люминесцентные лампы, которые по сравнению по сравнению с лампами накаливания на 60-80% более энергоэффективны. Их срок службы  составляет порядка от 6000 до 20 000 часов против 1000 часов лампы накаливания.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Заменить лампы накаливания в подвальных, хозяйственной части на датчики движения.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Заменить обычные электронагревательные плиты на индукционные варочные панели. Они готовят пищу, создавая электромагнитное поле, которое нагревает только дно посуды. Благодаря этому отсутствуют потери энергии.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Организовать участие родителей в реализации социально – значимых проектов по энергосбережению.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Распространить информацию о результатах проекта на сайте школы.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;В школе должны быть проведена агитационная работа (уроки физики, проведение декады по физике «Экология и физика», информационные стенды по энергосбережению в школе, классные часы по теме энергосбережения). Проведение рекламной акции по распространению информации:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Конкурс плакатов, листовок, стенгазет. Развешиваются по всей школе с целью дать детям возможность критически осмыслить предоставленную информацию и задуматься над процессом выбора и принятия решения по экономии электроэнергии.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Проведение мероприятия «Что нам стоит день прожить?». В ходе акции дети задумываются о путях сокращения количества потребляемой электроэнергии в школе и дома.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Энергетический аудит дома - рассчитывает энергозатраты  в быту.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Экономический аудит энергосбережения. Произвести расчет экономии при замене энергоресурсов.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Открытое занятие факультатива- защита проекта по экономии электроэнергии.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Замена ламп накаливания&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Повторный аудит проекта.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Финиш проекта.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;ожидаемые-результаты-проекта&#34;&gt;ОЖИДАЕМЫЕ РЕЗУЛЬТАТЫ ПРОЕКТА&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Укрепление взаимоотношений семьи и школы.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Реализации прав учащихся на непрерывное образование по профилю.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Научно-исследовательская деятельность школьников.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Получение наглядно-практического опыта.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Распространение информации о проекте. (Школьный сайт, информационные стенды в школе и районе)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;*Примечание - при неустойчивых ценах на товары и сырье, приводится только требуемые средства без учета стоимости.&lt;/p&gt;
+&lt;h2 id=&#34;практическая-значимость-проекта&#34;&gt;ПРАКТИЧЕСКАЯ ЗНАЧИМОСТЬ ПРОЕКТА&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Решить ряд воспитательных задач;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Поддержка детских инициатив;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Получение практического опыта взаимодействия ребенка и социальной среды;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Сэкономить топливно-энергетические ресурсы для будущего поколения;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Снизить опасность глобального потепления;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Сэкономить бюджетные деньги.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;ЗАКЛЮЧЕНИЕ&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Россия, несмотря на продолжительные трудности, осталась «энергетической сверхдержавой» - обладателем одним из самых больших в мире потенциалов топливно-энергетических ресурсов. На ее территории, сосредоточено свыше 32% разведанных запасов газа, 13% нефти и 25% угля. Но даже при таком изобилии, проблема ресурсосбережения – одна из ключевых для России. Проблема ресурсосбережения имеет свой специфический российский аспект – это расточительное расходование энергоресурсов и энергоносителей ввиду чрезвычайной энергоемкости средств производства топливно–энергетического и промышленного комплексов.&lt;/p&gt;
+&lt;p&gt;В 2008 году было заключено Российско-индийское сотрудничество в области солнечной энергетики. Для двух стран идеально подходит вариант совместной работы над проектами по возобновляемым источникам энергии. Россия также планирует использовать солнечную энергию в отдаленных регионах, где достаточно солнечного света, а стоимость электроэнергии от дизельных электростанций слишком высока. Опыт Индии с ее солнечным парком в штате Гуджарат может пригодиться России, когда она начнет устанавливать свои солнечные электростанции в отдаленных частях страны, например в Республике Алтай. Такая инициатива, как алтайская солнечная электростанция, получила одобрение от Владимира Путина. &amp;ldquo;Для труднодоступных мест, недоступных регионов, удаленных регионов использование альтернативных источников энергии, возобновляемых источников энергии является чрезвычайно важным событием&amp;rdquo;, - заявил в прошлом месяце президент России.
+Небольшой немецкий городок на юге Баварии с населением в 2600 человек участвует в интересном эксперименте, доказывающем жизнеспособность возобновляемых источников энергии в будущем. Вильдпольдсрид в настоящее время производит на 500 процентов больше энергии, чем ему необходимо для собственных нужд, за счет возобновляемых источников энергии, и продает излишки электроэнергии.&lt;/p&gt;
+&lt;p&gt;Разработка и реализация проектов солнечных электростанций в России в последнее время пошла ускоренными темпами с рядом заявленных крупных, заметных проектов. Среди таких проектов есть несколько, которые будут воплощены в Крыму. Развитию солнечной энергетики в России способствуют и другой проект на Дальнем Востоке. В Республике Саха (Якутия) планируют построить 40 МВт солнечную электростанцию с таким расчетом, чтобы полностью обеспечить электроэнергией местное население.  Среди других проектов в этой области можно отметить солнечные электростанции в Сибири общей мощностью более чем 254 МВт, которые в настоящее время планирует разрабатывать компания Xevel. Объекты будут расположены в диапазоне от берегов Северного Ледовитого океана до приграничных с Казахстаном территорий и бесплодных земель на границе с Китаем и Монголией. &amp;ldquo;Только в 2015 году мы запускаем 30 МВт-ный фотоэлектрический центр на Алтае, 25 МВт-ную солнечную электростанцию в Бурятии, солнечную установку мощностью 30 МВт в Омской области и электростанцию мощностью 10 МВт в районе Забайкалья.&lt;/p&gt;
 </description>
     </item>
     
