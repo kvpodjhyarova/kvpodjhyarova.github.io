@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects | Academic</title>
-    <link>https://example.com/ru/project/</link>
-      <atom:link href="https://example.com/ru/project/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://kvpodjhyarova.github.io/ru/project/</link>
+      <atom:link href="https://kvpodjhyarova.github.io/ru/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>ru-ru</language><lastBuildDate>Fri, 25 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://kvpodjhyarova.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
-      <link>https://example.com/ru/project/</link>
+      <link>https://kvpodjhyarova.github.io/ru/project/</link>
     </image>
     
     <item>
       <title>Проект &#34;Энергоэффективная школа&#34;</title>
-      <link>https://example.com/ru/project/example/</link>
+      <link>https://kvpodjhyarova.github.io/ru/project/example/</link>
       <pubDate>Fri, 25 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/project/example/</guid>
+      <guid>https://kvpodjhyarova.github.io/ru/project/example/</guid>
       <description>&lt;h2 id=&#34;описание-проекта&#34;&gt;ОПИСАНИЕ ПРОЕКТА&lt;/h2&gt;
 &lt;p&gt;В последние годы администрация нашего района и республики предпринимают комплекс мер, направленных на стимулирование процессов энергосбережения, а именно установка новых счетчиков, повышение тарифов на потребление энергоресурсов на региональном уровне, борьба с неплательщиками и т.д. Однако, этого недостаточно для решения проблемы. Равнодушие и нежелание нести ответственность, за что бы то ни было в принципе – это болезнь современного общества. Школа продолжает развивать ответственное отношение учащихся к природе, соблюдение нравственных и правовых принципов природопользования, а так же активизирует гражданскую сознательность.&lt;/p&gt;
 &lt;p&gt;В соответствии со статьёй 24 ФЗ № 261 начиная с 1 января 2010 года школа обязана обеспечить снижение в сопоставимых условиях объёма потреблённой воды, дизельного и другого топлива, мазута, природного газа, тепловой, электрической энергии, угля в течение пяти лет не менее чем на 15% от объёма фактически потреблённого ею в 2009 г. каждого из указанных ресурсов с ежегодным снижением такого объёма не менее чем на 3%. Работая над проблемой энергосбережения, мы думали о снижении объёма потребляемой энергии, также научиться решать проблему энергосбережения. Мною был проведён мониторинг школы, в которой я учусь на основании «Декларации за 2015 год учреждения &amp;ldquo;МБОУ &amp;ldquo;Курумканская средняя общеобразовательная школа №1&amp;quot;&amp;rdquo; Информация о потреблении энергетических ресурсов в здании, строении, сооружении /Учебный корпус/»&lt;/p&gt;

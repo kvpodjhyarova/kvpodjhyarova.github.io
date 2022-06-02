@@ -4,84 +4,34 @@
   
   
   <url>
-    <loc>https://example.com/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://kvpodjhyarova.github.io/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/"
+      href="https://kvpodjhyarova.github.io/ru/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/"
+      href="https://kvpodjhyarova.github.io/"
     /></url>
   <url>
-    <loc>https://example.com/talk/example-talk/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://kvpodjhyarova.github.io/talk/example-talk/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/talk/example-talk/"
+      href="https://kvpodjhyarova.github.io/ru/talk/example-talk/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/talk/example-talk/"
+      href="https://kvpodjhyarova.github.io/talk/example-talk/"
     /></url>
   <url>
-    <loc>https://example.com/event/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://kvpodjhyarova.github.io/event/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/event/"
+      href="https://kvpodjhyarova.github.io/ru/event/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/event/"
-    /></url>
-  <url>
-    <loc></loc><lastmod>2022-06-02T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href=""
-    /><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href=""
-    /></url>
-  <url>
-    <loc>https://example.com/tag/academic/</loc><lastmod>2022-06-02T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href="https://example.com/ru/tag/academic/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://example.com/tag/academic/"
-    /></url>
-  <url>
-    <loc>https://example.com/categories/</loc><lastmod>2022-06-02T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href="https://example.com/ru/categories/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://example.com/categories/"
-    /></url>
-  <url>
-    <loc>https://example.com/category/demo/</loc><lastmod>2022-06-02T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href="https://example.com/ru/category/demo/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://example.com/category/demo/"
-    /></url>
-  <url>
-    <loc>https://example.com/post/post-9/</loc><lastmod>2022-06-02T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href="https://example.com/ru/post/post-9/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://example.com/post/post-9/"
+      href="https://kvpodjhyarova.github.io/event/"
     /></url>
   <url>
     <loc></loc><lastmod>2022-06-02T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
@@ -94,34 +44,44 @@
       href=""
     /></url>
   <url>
-    <loc>https://example.com/post/post-8/</loc><lastmod>2022-06-02T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://kvpodjhyarova.github.io/tag/academic/</loc><lastmod>2022-06-02T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/post/post-8/"
+      href="https://kvpodjhyarova.github.io/ru/tag/academic/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/post/post-8/"
+      href="https://kvpodjhyarova.github.io/tag/academic/"
     /></url>
   <url>
-    <loc>https://example.com/post/</loc><lastmod>2022-06-02T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://kvpodjhyarova.github.io/categories/</loc><lastmod>2022-06-02T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/post/"
+      href="https://kvpodjhyarova.github.io/ru/categories/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/post/"
+      href="https://kvpodjhyarova.github.io/categories/"
     /></url>
   <url>
-    <loc>https://example.com/tags/</loc><lastmod>2022-06-02T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://kvpodjhyarova.github.io/category/demo/</loc><lastmod>2022-06-02T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/tags/"
+      href="https://kvpodjhyarova.github.io/ru/category/demo/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/tags/"
+      href="https://kvpodjhyarova.github.io/category/demo/"
+    /></url>
+  <url>
+    <loc>https://kvpodjhyarova.github.io/post/post-9/</loc><lastmod>2022-06-02T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+      rel="alternate"
+      hreflang="ru"
+      href="https://kvpodjhyarova.github.io/ru/post/post-9/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://kvpodjhyarova.github.io/post/post-9/"
     /></url>
   <url>
     <loc></loc><lastmod>2022-06-02T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
@@ -134,194 +94,234 @@
       href=""
     /></url>
   <url>
-    <loc>https://example.com/tag/%E5%BC%80%E6%BA%90/</loc><lastmod>2022-06-02T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://kvpodjhyarova.github.io/post/post-8/</loc><lastmod>2022-06-02T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/tag/%E5%BC%80%E6%BA%90/"
+      href="https://kvpodjhyarova.github.io/ru/post/post-8/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/tag/%E5%BC%80%E6%BA%90/"
+      href="https://kvpodjhyarova.github.io/post/post-8/"
     /></url>
   <url>
-    <loc>https://example.com/post/post-6/</loc><lastmod>2022-05-26T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://kvpodjhyarova.github.io/post/</loc><lastmod>2022-06-02T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/post/post-6/"
+      href="https://kvpodjhyarova.github.io/ru/post/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/post/post-6/"
+      href="https://kvpodjhyarova.github.io/post/"
     /></url>
   <url>
-    <loc>https://example.com/post/post-7/</loc><lastmod>2022-05-26T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://kvpodjhyarova.github.io/tags/</loc><lastmod>2022-06-02T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/post/post-7/"
+      href="https://kvpodjhyarova.github.io/ru/tags/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/post/post-7/"
+      href="https://kvpodjhyarova.github.io/tags/"
     /></url>
   <url>
-    <loc>https://example.com/category/%E6%95%99%E7%A8%8B/</loc><lastmod>2022-05-26T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc></loc><lastmod>2022-06-02T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/category/%E6%95%99%E7%A8%8B/"
+      href=""
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/category/%E6%95%99%E7%A8%8B/"
+      href=""
     /></url>
   <url>
-    <loc>https://example.com/post/post4/</loc><lastmod>2022-05-19T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://kvpodjhyarova.github.io/tag/%E5%BC%80%E6%BA%90/</loc><lastmod>2022-06-02T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/post/post4/"
+      href="https://kvpodjhyarova.github.io/ru/tag/%E5%BC%80%E6%BA%90/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/post/post4/"
+      href="https://kvpodjhyarova.github.io/tag/%E5%BC%80%E6%BA%90/"
     /></url>
   <url>
-    <loc>https://example.com/post/post5/</loc><lastmod>2022-05-19T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://kvpodjhyarova.github.io/post/post-6/</loc><lastmod>2022-05-26T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/post/post5/"
+      href="https://kvpodjhyarova.github.io/ru/post/post-6/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/post/post5/"
+      href="https://kvpodjhyarova.github.io/post/post-6/"
     /></url>
   <url>
-    <loc>https://example.com/post/post2/</loc><lastmod>2022-05-12T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://kvpodjhyarova.github.io/post/post-7/</loc><lastmod>2022-05-26T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/post/post2/"
+      href="https://kvpodjhyarova.github.io/ru/post/post-7/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/post/post2/"
+      href="https://kvpodjhyarova.github.io/post/post-7/"
     /></url>
   <url>
-    <loc>https://example.com/post/getting-started/</loc><lastmod>2022-05-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://kvpodjhyarova.github.io/category/%E6%95%99%E7%A8%8B/</loc><lastmod>2022-05-26T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/post/getting-started/"
+      href="https://kvpodjhyarova.github.io/ru/category/%E6%95%99%E7%A8%8B/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/post/getting-started/"
+      href="https://kvpodjhyarova.github.io/category/%E6%95%99%E7%A8%8B/"
     /></url>
   <url>
-    <loc>https://example.com/post/post3/</loc><lastmod>2022-05-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://kvpodjhyarova.github.io/post/post4/</loc><lastmod>2022-05-19T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/post/post3/"
+      href="https://kvpodjhyarova.github.io/ru/post/post4/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/post/post3/"
+      href="https://kvpodjhyarova.github.io/post/post4/"
     /></url>
   <url>
-    <loc>https://example.com/post/%D0%BF%D0%BE%D1%81%D1%82/</loc><lastmod>2022-05-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://kvpodjhyarova.github.io/post/post5/</loc><lastmod>2022-05-19T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/post/%D0%BF%D0%BE%D1%81%D1%82/"
+      href="https://kvpodjhyarova.github.io/ru/post/post5/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/post/%D0%BF%D0%BE%D1%81%D1%82/"
+      href="https://kvpodjhyarova.github.io/post/post5/"
     /></url>
   <url>
-    <loc>https://example.com/tag/deep-learning/</loc><lastmod>2020-12-25T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://kvpodjhyarova.github.io/post/post2/</loc><lastmod>2022-05-12T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/tag/deep-learning/"
+      href="https://kvpodjhyarova.github.io/ru/post/post2/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/tag/deep-learning/"
+      href="https://kvpodjhyarova.github.io/post/post2/"
     /></url>
   <url>
-    <loc>https://example.com/project/example/</loc><lastmod>2020-12-25T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://kvpodjhyarova.github.io/post/getting-started/</loc><lastmod>2022-05-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/project/example/"
+      href="https://kvpodjhyarova.github.io/ru/post/getting-started/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/project/example/"
+      href="https://kvpodjhyarova.github.io/post/getting-started/"
     /></url>
   <url>
-    <loc>https://example.com/project/</loc><lastmod>2020-12-25T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://kvpodjhyarova.github.io/post/post3/</loc><lastmod>2022-05-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/project/"
+      href="https://kvpodjhyarova.github.io/ru/post/post3/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/project/"
+      href="https://kvpodjhyarova.github.io/post/post3/"
     /></url>
   <url>
-    <loc>https://example.com/slides/</loc><lastmod>2019-02-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://kvpodjhyarova.github.io/post/%D0%BF%D0%BE%D1%81%D1%82/</loc><lastmod>2022-05-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/slides/"
+      href="https://kvpodjhyarova.github.io/ru/post/%D0%BF%D0%BE%D1%81%D1%82/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/slides/"
+      href="https://kvpodjhyarova.github.io/post/%D0%BF%D0%BE%D1%81%D1%82/"
     /></url>
   <url>
-    <loc>https://example.com/slides/example/</loc><lastmod>2019-02-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://kvpodjhyarova.github.io/tag/deep-learning/</loc><lastmod>2020-12-25T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/slides/example/"
+      href="https://kvpodjhyarova.github.io/ru/tag/deep-learning/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/slides/example/"
+      href="https://kvpodjhyarova.github.io/tag/deep-learning/"
     /></url>
   <url>
-    <loc>https://example.com/publication-type/1/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://kvpodjhyarova.github.io/project/example/</loc><lastmod>2020-12-25T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/publication-type/1/"
+      href="https://kvpodjhyarova.github.io/ru/project/example/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/publication-type/1/"
+      href="https://kvpodjhyarova.github.io/project/example/"
     /></url>
   <url>
-    <loc>https://example.com/publication/example/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://kvpodjhyarova.github.io/project/</loc><lastmod>2020-12-25T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/publication/example/"
+      href="https://kvpodjhyarova.github.io/ru/project/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/publication/example/"
+      href="https://kvpodjhyarova.github.io/project/"
     /></url>
   <url>
-    <loc>https://example.com/publication_types/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://kvpodjhyarova.github.io/slides/</loc><lastmod>2019-02-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/publication_types/"
+      href="https://kvpodjhyarova.github.io/ru/slides/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/publication_types/"
+      href="https://kvpodjhyarova.github.io/slides/"
     /></url>
   <url>
-    <loc>https://example.com/publication/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://kvpodjhyarova.github.io/slides/example/</loc><lastmod>2019-02-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/publication/"
+      href="https://kvpodjhyarova.github.io/ru/slides/example/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/publication/"
+      href="https://kvpodjhyarova.github.io/slides/example/"
+    /></url>
+  <url>
+    <loc>https://kvpodjhyarova.github.io/publication-type/1/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+      rel="alternate"
+      hreflang="ru"
+      href="https://kvpodjhyarova.github.io/ru/publication-type/1/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://kvpodjhyarova.github.io/publication-type/1/"
+    /></url>
+  <url>
+    <loc>https://kvpodjhyarova.github.io/publication/example/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+      rel="alternate"
+      hreflang="ru"
+      href="https://kvpodjhyarova.github.io/ru/publication/example/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://kvpodjhyarova.github.io/publication/example/"
+    /></url>
+  <url>
+    <loc>https://kvpodjhyarova.github.io/publication_types/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+      rel="alternate"
+      hreflang="ru"
+      href="https://kvpodjhyarova.github.io/ru/publication_types/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://kvpodjhyarova.github.io/publication_types/"
+    /></url>
+  <url>
+    <loc>https://kvpodjhyarova.github.io/publication/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+      rel="alternate"
+      hreflang="ru"
+      href="https://kvpodjhyarova.github.io/ru/publication/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://kvpodjhyarova.github.io/publication/"
     /></url>
   <url>
     <loc></loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link

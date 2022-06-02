@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Academic</title>
-    <link>https://example.com/</link>
-      <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://kvpodjhyarova.github.io/</link>
+      <atom:link href="https://kvpodjhyarova.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Academic</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://kvpodjhyarova.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Academic</title>
-      <link>https://example.com/</link>
+      <link>https://kvpodjhyarova.github.io/</link>
     </image>
     
     <item>
       <title>Example Talk</title>
-      <link>https://example.com/talk/example-talk/</link>
+      <link>https://kvpodjhyarova.github.io/talk/example-talk/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>https://example.com/talk/example-talk/</guid>
+      <guid>https://kvpodjhyarova.github.io/talk/example-talk/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
@@ -34,9 +34,9 @@
     
     <item>
       <title>June 1 - International Children&#39;s Day</title>
-      <link>https://example.com/post/post-9/</link>
+      <link>https://kvpodjhyarova.github.io/post/post-9/</link>
       <pubDate>Thu, 02 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/post-9/</guid>
+      <guid>https://kvpodjhyarova.github.io/post/post-9/</guid>
       <description>&lt;p&gt;&lt;strong&gt;The main goal of Children&amp;rsquo;s Day&lt;/strong&gt; is to draw public attention to real children&amp;rsquo;s problems. This idea is directly present in the name of the holiday.&lt;/p&gt;
 &lt;p&gt;All children&amp;rsquo;s rights and freedoms are reflected in the Declaration of the Rights of the Child, which was adopted by the UN General Assembly in 1959. It proclaims the equal rights of children in the field of upbringing, education, social security, physical and spiritual development, regardless of skin color, nationality, social origin, property status, etc. The Declaration calls on parents, public organizations, governments to recognize the rights of children and promote their implementation.&lt;/p&gt;
 &lt;p&gt;History is silent why it was decided to celebrate this children&amp;rsquo;s holiday on June 1. According to one version, in 1925, the Consul General of China in San Francisco gathered a group of Chinese orphans and arranged for them to celebrate the Duan Wu Ze (Dragon Boat Festival), the date of which just fell on June 1. Luckily, this day coincided with the time of the “children&amp;rsquo;s” conference in Geneva.&lt;/p&gt;
@@ -46,9 +46,9 @@
     
     <item>
       <title>Post last week May 26 - June 1</title>
-      <link>https://example.com/post/post-8/</link>
+      <link>https://kvpodjhyarova.github.io/post/post-8/</link>
       <pubDate>Thu, 02 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/post-8/</guid>
+      <guid>https://kvpodjhyarova.github.io/post/post-8/</guid>
       <description>&lt;h2 id=&#34;may-19-25&#34;&gt;May 19-25&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Thursday May 26th&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Thursday 12 May started with a class in my favorite subject &amp;ldquo;Calculation&amp;rdquo; at 9:00 am. To do this, I woke up at 7:00, had breakfast and went to the university. On the first pair, we wrote a control work on the topic &amp;ldquo;Power Series&amp;rdquo;. On the second pair, we went through a new topic - Triple Integrals. After two pairs of mathematical analysis, we went to the dining room and had a delicious meal. Then we went to pairs in the discipline &amp;ldquo;Operating Systems&amp;rdquo;. I did 10 and 11 labs and stage 4 on an individual project. A very productive day!&lt;/p&gt;
@@ -70,9 +70,9 @@
     
     <item>
       <title>Post last week May 19-25</title>
-      <link>https://example.com/post/post-6/</link>
+      <link>https://kvpodjhyarova.github.io/post/post-6/</link>
       <pubDate>Thu, 26 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/post-6/</guid>
+      <guid>https://kvpodjhyarova.github.io/post/post-6/</guid>
       <description>&lt;h2 id=&#34;may-19-25&#34;&gt;May 19-25&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Thursday May 19th&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Thursday 12 May started with a class in my favorite subject &amp;ldquo;Calculation&amp;rdquo; at 9:00 am. To do this, I woke up at 7:00, had breakfast and went to the university. On the first pair, we wrote a control work on the topic &amp;ldquo;Power Series&amp;rdquo;. On the second pair, we went through a new topic - Triple Integrals. After two pairs of mathematical analysis, we went to the dining room and had a delicious meal. Then we went to pairs in the discipline &amp;ldquo;Operating Systems&amp;rdquo;. I did 10 and 11 labs and stage 4 on an individual project. A very productive day!&lt;/p&gt;
@@ -95,9 +95,9 @@
     
     <item>
       <title>Scientific programming languages.</title>
-      <link>https://example.com/post/post-7/</link>
+      <link>https://kvpodjhyarova.github.io/post/post-7/</link>
       <pubDate>Thu, 26 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/post-7/</guid>
+      <guid>https://kvpodjhyarova.github.io/post/post-7/</guid>
       <description>&lt;h2 id=&#34;bash&#34;&gt;Bash&lt;/h2&gt;
 &lt;p&gt;Unix shell scripting, created by Ken Thompson in the early 1970s, is closely related to the C programming language. Bash, an updated Unix shell, was first released in the late 80s and is still under active development. Bash is typically scripted for server configuration, so it&amp;rsquo;s a good choice for modern cloud environments with containerized storage and microservices. Shell scripts are used quite often, so knowledge of this language is useful.&lt;/p&gt;
 &lt;p&gt;Also worth noting is zsh, which is currently the default shell on macOS.&lt;/p&gt;
@@ -167,9 +167,9 @@
     
     <item>
       <title>Post last week May 12-18</title>
-      <link>https://example.com/post/post4/</link>
+      <link>https://kvpodjhyarova.github.io/post/post4/</link>
       <pubDate>Thu, 19 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/post4/</guid>
+      <guid>https://kvpodjhyarova.github.io/post/post4/</guid>
       <description>&lt;h2 id=&#34;may-12-18&#34;&gt;May 12-18&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Thursday May 12th&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Thursday 12 May started with a class in my favorite subject &amp;ldquo;Calculation&amp;rdquo; at 9:00 am. To do this, I woke up at 7:00, had breakfast and went to the university. On the first pair, we wrote a control work on the topic &amp;ldquo;Power Series&amp;rdquo;. On the second pair, we went through a new topic - Triple Integrals. After two pairs of mathematical analysis, we went to the dining room and had a delicious meal. Then we went to pairs in the discipline &amp;ldquo;Operating Systems&amp;rdquo;. I did 10 and 11 labs and stage 4 on an individual project. A very productive day!&lt;/p&gt;
@@ -192,9 +192,9 @@
     
     <item>
       <title>Report formatting.</title>
-      <link>https://example.com/post/post5/</link>
+      <link>https://kvpodjhyarova.github.io/post/post5/</link>
       <pubDate>Thu, 19 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/post5/</guid>
+      <guid>https://kvpodjhyarova.github.io/post/post5/</guid>
       <description>&lt;h1 id=&#34;laboratory-work-is-a-small-research-work-which-should-be-drawn-up-according-to-all-approved-requirements-when-preparing-a-report-on-laboratory-work-you-will-master-a-number-of-important-elements-that-will-later-be-useful-to-you-when-writing-term-papers-and-dissertations&#34;&gt;Laboratory work is a small research work, which should be drawn up according to all approved requirements. When preparing a report on laboratory work, you will master a number of important elements that will later be useful to you when writing term papers and dissertations.&lt;/h1&gt;
 &lt;h2 id=&#34;report-structure&#34;&gt;Report structure&lt;/h2&gt;
 &lt;p&gt;According to GOST 7.32-2001, any research work must be
@@ -287,9 +287,9 @@ discipline.&lt;/p&gt;
     
     <item>
       <title>Post last week</title>
-      <link>https://example.com/post/post2/</link>
+      <link>https://kvpodjhyarova.github.io/post/post2/</link>
       <pubDate>Thu, 12 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/post2/</guid>
+      <guid>https://kvpodjhyarova.github.io/post/post2/</guid>
       <description>&lt;h2 id=&#34;may-5-12&#34;&gt;May 5-12&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Thursday May 5th&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Thursday May 5th started with a class in my favorite subject &amp;ldquo;Calculus&amp;rdquo; at 9:00. To do this, I woke up at 7:00, had breakfast and went to the university. The road from my hostel to the building of the university where I study takes 1 hour. In pairs, we went through a new topic - Double Integrals. After two pairs of mathematical analysis, we went to the dining room and had a delicious meal. Then we went to pairs in the discipline &amp;ldquo;Operating Systems&amp;rdquo;. I did 7 and 8 labs and stage 2 on an individual project. Returned home at 21:00.&lt;/p&gt;
@@ -311,9 +311,9 @@ discipline.&lt;/p&gt;
     
     <item>
       <title>Hello Sheregesh!</title>
-      <link>https://example.com/post/getting-started/</link>
+      <link>https://kvpodjhyarova.github.io/post/getting-started/</link>
       <pubDate>Thu, 05 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/getting-started/</guid>
+      <guid>https://kvpodjhyarova.github.io/post/getting-started/</guid>
       <description>&lt;h2 id=&#34;short-review&#34;&gt;Short review&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;one. The main thing&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;One of the most famous ski resorts in Russia is located at the meeting point of the Altai Mountains with the Sayan Mountains, in Mountain Shoria. For the beauty of the relief, it is often called the Siberian Switzerland. It has everything for relaxation - from dog sledding to helicopter rides, from spa services to nightclubs. In summer, Mountain Shoria is ideal for mountain walks and excursions to caves.&lt;/p&gt;
@@ -335,9 +335,9 @@ discipline.&lt;/p&gt;
     
     <item>
       <title>Lightweight markup languages.</title>
-      <link>https://example.com/post/post3/</link>
+      <link>https://kvpodjhyarova.github.io/post/post3/</link>
       <pubDate>Thu, 05 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/post3/</guid>
+      <guid>https://kvpodjhyarova.github.io/post/post3/</guid>
       <description>&lt;h2 id=&#34;content&#34;&gt;Content&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;
@@ -401,9 +401,9 @@ discipline.&lt;/p&gt;
     
     <item>
       <title>Version control. Git.</title>
-      <link>https://example.com/post/%D0%BF%D0%BE%D1%81%D1%82/</link>
+      <link>https://kvpodjhyarova.github.io/post/%D0%BF%D0%BE%D1%81%D1%82/</link>
       <pubDate>Thu, 05 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/%D0%BF%D0%BE%D1%81%D1%82/</guid>
+      <guid>https://kvpodjhyarova.github.io/post/%D0%BF%D0%BE%D1%81%D1%82/</guid>
       <description>&lt;h2 id=&#34;git---version-control-system&#34;&gt;GIT - VERSION CONTROL SYSTEM&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;GIT is a distributed version control system created by Linus Torvalds to manage the development of the Linux kernel and is currently very widely used in the software development environment.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;A Version Control System (VCS) is software that makes it easier to work with changing information. The version control system allows you to store multiple versions of the same document, revert to earlier versions if necessary, determine who made a change and when, and much more. Such systems are most widely used in software development to store the source codes of the program being developed.&lt;/p&gt;
@@ -421,9 +421,9 @@ discipline.&lt;/p&gt;
     
     <item>
       <title>Project &#34;Energy Efficient School&#34;</title>
-      <link>https://example.com/project/example/</link>
+      <link>https://kvpodjhyarova.github.io/project/example/</link>
       <pubDate>Fri, 25 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/example/</guid>
+      <guid>https://kvpodjhyarova.github.io/project/example/</guid>
       <description>&lt;h2 id=&#34;project-description&#34;&gt;PROJECT DESCRIPTION&lt;/h2&gt;
 &lt;p&gt;In recent years, the administration of our district and the republic has been taking a set of measures aimed at stimulating energy saving processes, namely the installation of new meters, raising tariffs for energy consumption at the regional level, the fight against non-payers, etc. However, this is not enough to solve the problem. Indifference and unwillingness to bear responsibility for anything in principle is a disease of modern society. The school continues to develop a responsible attitude of students to nature, observance of the moral and legal principles of nature management, and also activates civic consciousness.&lt;/p&gt;
 &lt;p&gt;In accordance with Article 24 of Federal Law No. 261, starting from January 1, 2010, the school is obliged to reduce, under comparable conditions, the volume of consumed water, diesel and other fuels, fuel oil, natural gas, thermal, electric energy, coal within five years by at least 15 % of the volume actually consumed by it in 2009 of each of the indicated resources with an annual decrease in such volume by at least 3%. Working on the problem of energy saving, we thought about reducing the amount of energy consumed, and also learn how to solve the problem of energy saving. I have monitored the school where I study on the basis of the &amp;ldquo;Declaration for 2015 of the institution &amp;ldquo;MBOU &amp;ldquo;Kurumkan Secondary School No. 1&amp;quot;&amp;rdquo; Information on the consumption of energy resources in the building, structure, structure / Educational building /&amp;rdquo;&lt;/p&gt;
@@ -590,9 +590,9 @@ A small German town in the south of Bavaria with a population of 2,600 is partic
     
     <item>
       <title>Slides</title>
-      <link>https://example.com/slides/example/</link>
+      <link>https://kvpodjhyarova.github.io/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/slides/example/</guid>
+      <guid>https://kvpodjhyarova.github.io/slides/example/</guid>
       <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://owchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
@@ -715,9 +715,9 @@ $$&lt;/p&gt;
     
     <item>
       <title>An example conference paper</title>
-      <link>https://example.com/publication/example/</link>
+      <link>https://kvpodjhyarova.github.io/publication/example/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/example/</guid>
+      <guid>https://kvpodjhyarova.github.io/publication/example/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -734,9 +734,9 @@ $$&lt;/p&gt;
     
     <item>
       <title></title>
-      <link>https://example.com/admin/config.yml</link>
+      <link>https://kvpodjhyarova.github.io/admin/config.yml</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/admin/config.yml</guid>
+      <guid>https://kvpodjhyarova.github.io/admin/config.yml</guid>
       <description></description>
     </item>
     
