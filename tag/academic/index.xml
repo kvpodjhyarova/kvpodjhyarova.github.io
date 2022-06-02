@@ -5,7 +5,7 @@
     <link>https://example.com/tag/academic/</link>
       <atom:link href="https://example.com/tag/academic/index.xml" rel="self" type="application/rss+xml" />
     <description>Academic</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 26 May 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 02 Jun 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Academic</title>
@@ -13,288 +13,346 @@
     </image>
     
     <item>
-      <title>Пост по прошедшей неделе 19-25 мая</title>
-      <link>https://example.com/post/post-6/</link>
-      <pubDate>Thu, 26 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/post-6/</guid>
-      <description>&lt;h2 id=&#34;19-25-мая&#34;&gt;19-25 мая&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;Четверг 19 мая&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Четверг 12 мая начался с пары по моему любимому предмету &amp;ldquo;Математический анализ&amp;rdquo; в 9:00. Для этого я проснулась в 7:00, позавтракала и поехала в университет. На первой паре мы писали контрольную работу по теме &amp;ldquo;Степенные ряды&amp;rdquo;. На второй паре мы проходили новую тему - Тройные интегралы. После двух пар математического анализа мы пошли в столовую и вкусно покушали. Затем отправились на пары по дисциплине &amp;ldquo;Операционные системы&amp;rdquo;. Я сделала 10 и 11 лабораторные работы и 4 этап по индивидуальному проекту. Очень продуктиный день!&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Пятница 20 мая&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;В пятницу 13 мая у нас была дистанционная лекция по математическому анализу. Больше пар не было! Весь день я с друзьями гуляла по прекрасной Москве. Было здорово!&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Суббота и воскресенье (21-22 мая)&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;В субботу мы ходили в театр. После театра мы пошли в кафе. Прекрасно провели вечер.&lt;/p&gt;
-&lt;p&gt;Во воскресенье я делала домашнее задание на предстоящую неделю. Вечером сходила погулять с друзьями.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Понедельник 23 мая&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;14 мая у нас была лекция по дисциплине &amp;ldquo;Операционные системы&amp;rdquo;. На ней я узнала много нового. После я поехала на пары по английскому языку. На них мы начали подготовку к экзамену, который будет 30 мая.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Среда 25 мая&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;В среду 18 мая у нас было 2 семинара по Математической логике. На первой паре мы писали контрольную работу. На второй паре изучали сложную тему &amp;ldquo;Замкнутые классы&amp;rdquo;.&lt;/p&gt;
-&lt;h2 id=&#34;информация&#34;&gt;Информация&lt;/h2&gt;
+      <title>June 1 - International Children&#39;s Day</title>
+      <link>https://example.com/post/post-9/</link>
+      <pubDate>Thu, 02 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/post-9/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;The main goal of Children&amp;rsquo;s Day&lt;/strong&gt; is to draw public attention to real children&amp;rsquo;s problems. This idea is directly present in the name of the holiday.&lt;/p&gt;
+&lt;p&gt;All children&amp;rsquo;s rights and freedoms are reflected in the Declaration of the Rights of the Child, which was adopted by the UN General Assembly in 1959. It proclaims the equal rights of children in the field of upbringing, education, social security, physical and spiritual development, regardless of skin color, nationality, social origin, property status, etc. The Declaration calls on parents, public organizations, governments to recognize the rights of children and promote their implementation.&lt;/p&gt;
+&lt;p&gt;History is silent why it was decided to celebrate this children&amp;rsquo;s holiday on June 1. According to one version, in 1925, the Consul General of China in San Francisco gathered a group of Chinese orphans and arranged for them to celebrate the Duan Wu Ze (Dragon Boat Festival), the date of which just fell on June 1. Luckily, this day coincided with the time of the “children&amp;rsquo;s” conference in Geneva.&lt;/p&gt;
+&lt;p&gt;After the end of the Second World War, when the problems of preserving the health and well-being of children were more urgent than ever, in 1949 a congress of women was held in Paris, at which an oath was voiced to fight for a lasting peace, as the only guarantee for the happiness of children. And in the same year, at the Moscow session of the Council of the International Democratic Women&amp;rsquo;s Federation, in accordance with the decisions of its 2nd Congress, today&amp;rsquo;s holiday was established. And a year later, in 1950, on June 1, the first International Children&amp;rsquo;s Day was held, after which this holiday is held annually.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Post last week May 26 - June 1</title>
+      <link>https://example.com/post/post-8/</link>
+      <pubDate>Thu, 02 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/post-8/</guid>
+      <description>&lt;h2 id=&#34;may-19-25&#34;&gt;May 19-25&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Thursday May 26th&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Thursday 12 May started with a class in my favorite subject &amp;ldquo;Calculation&amp;rdquo; at 9:00 am. To do this, I woke up at 7:00, had breakfast and went to the university. On the first pair, we wrote a control work on the topic &amp;ldquo;Power Series&amp;rdquo;. On the second pair, we went through a new topic - Triple Integrals. After two pairs of mathematical analysis, we went to the dining room and had a delicious meal. Then we went to pairs in the discipline &amp;ldquo;Operating Systems&amp;rdquo;. I did 10 and 11 labs and stage 4 on an individual project. A very productive day!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Friday May 27th&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;On Friday, May 13, we had a remote lecture on calculus. There were no more couples! All day long I was walking around beautiful Moscow with my friends. Was great!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Saturday and Sunday (May 28-29)&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;On Saturday we went to the theater. After the theater we went to a cafe. Had a great evening.&lt;/p&gt;
+&lt;p&gt;On Sunday I did my homework for the coming week. In the evening I went for a walk with friends.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Monday 30 May&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;On May 14, we had a lecture on the discipline &amp;ldquo;Operating Systems&amp;rdquo;. On it I learned a lot of new things. After that I went to classes in English. On them, we started preparing for the exam, which will be on May 30.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Wednesday June 1th&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;On Wednesday, May 18, we had 2 seminars on Mathematical Logic. During the first session, we wrote a test. The second pair studied the complex topic &amp;ldquo;Closed classes&amp;rdquo;.&lt;/p&gt;
+&lt;h2 id=&#34;information&#34;&gt;Information&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;📚 &lt;a href=&#34;https://kvpodjhyarova.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Мой сайт&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;💬 &lt;a href=&#34;https://vk.com/ksupod&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Вконтакте&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;📚 &lt;a href=&#34;https://kvpodjhyarova.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;My site&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
     
     <item>
-      <title>Языки научного программирования.</title>
+      <title>Post last week May 19-25</title>
+      <link>https://example.com/post/post-6/</link>
+      <pubDate>Thu, 26 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/post-6/</guid>
+      <description>&lt;h2 id=&#34;may-19-25&#34;&gt;May 19-25&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Thursday May 19th&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Thursday 12 May started with a class in my favorite subject &amp;ldquo;Calculation&amp;rdquo; at 9:00 am. To do this, I woke up at 7:00, had breakfast and went to the university. On the first pair, we wrote a control work on the topic &amp;ldquo;Power Series&amp;rdquo;. On the second pair, we went through a new topic - Triple Integrals. After two pairs of mathematical analysis, we went to the dining room and had a delicious meal. Then we went to pairs in the discipline &amp;ldquo;Operating Systems&amp;rdquo;. I did 10 and 11 labs and stage 4 on an individual project. A very productive day!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Friday May 20th&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;On Friday, May 13, we had a remote lecture on calculus. There were no more couples! All day long I was walking around beautiful Moscow with my friends. Was great!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Saturday and Sunday (May 21-22)&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;On Saturday we went to the theater. After the theater we went to a cafe. Had a great evening.&lt;/p&gt;
+&lt;p&gt;On Sunday I did my homework for the coming week. In the evening I went for a walk with friends.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Monday 23 May&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;On May 14, we had a lecture on the discipline &amp;ldquo;Operating Systems&amp;rdquo;. On it I learned a lot of new things. After that I went to classes in English. On them, we started preparing for the exam, which will be on May 30.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Wednesday May 25th&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;On Wednesday, May 18, we had 2 seminars on Mathematical Logic. During the first session, we wrote a test. The second pair studied the complex topic &amp;ldquo;Closed classes&amp;rdquo;.&lt;/p&gt;
+&lt;h2 id=&#34;information&#34;&gt;Information&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;📚 &lt;a href=&#34;https://kvpodjhyarova.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;My site&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;💬 &lt;a href=&#34;https://vk.com/ksupod&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Vkontakte&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Scientific programming languages.</title>
       <link>https://example.com/post/post-7/</link>
       <pubDate>Thu, 26 May 2022 00:00:00 +0000</pubDate>
       <guid>https://example.com/post/post-7/</guid>
       <description>&lt;h2 id=&#34;bash&#34;&gt;Bash&lt;/h2&gt;
-&lt;p&gt;Сценарии командной оболочки Unix, созданные Кеном Томпсоном в начале 1970-х годов, тесно связаны с языком программирования C. Bash — обновленная оболочка Unix — была впервые выпущена в конце 80-х годов и до сих пор активно разрабатывается. На Bash обычно пишутся сценарии конфигурации сервера, поэтому это хороший выбор для работы в современных облачных средах с контейнерным хранением и микросервисами. Скрипты командной оболочки используются достаточно часто, так что знание этого языка пригодится.&lt;/p&gt;
-&lt;p&gt;Также стоит обратить внимание на zsh, который в настоящее время является оболочкой по умолчанию в macOS.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Области применения:&lt;/strong&gt; администрирование сервера, инструменты интерфейса командной строки, DevOps, виртуализация.&lt;/p&gt;
+&lt;p&gt;Unix shell scripting, created by Ken Thompson in the early 1970s, is closely related to the C programming language. Bash, an updated Unix shell, was first released in the late 80s and is still under active development. Bash is typically scripted for server configuration, so it&amp;rsquo;s a good choice for modern cloud environments with containerized storage and microservices. Shell scripts are used quite often, so knowledge of this language is useful.&lt;/p&gt;
+&lt;p&gt;Also worth noting is zsh, which is currently the default shell on macOS.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Applicable areas:&lt;/strong&gt; server administration, CLI tools, DevOps, virtualization.&lt;/p&gt;
 &lt;h2 id=&#34;cobol&#34;&gt;COBOL&lt;/h2&gt;
-&lt;p&gt;Один из старейших языков, используемых до сих пор, был создан Грейс Хоппер в конце 1950-х годов и предназначался для стандартизации разработки крупномасштабных бизнес-приложений на компьютерах. Блестящая концепция, которая до сих пор применяется в кроссплатформенных SDK. Через системы COBOL проходят невероятные 95% транзакций ATM, причем многие из этих устройств работают круглосуточно 365 дней в году. Такие поставщики устройств, как IBM, разрабатывают более мощные машины, предназначенные для COBOL, но продолжают обслуживать и обновлять существующие системы из-за затрат и рисков, связанных с их заменой. В ближайшее время COBOL никуда не уйдет. Это хороший выбор для тех, кто хочет работать с клиентами из финансовой сферы.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Области применения:&lt;/strong&gt; банковское дело / финансы, международные корпорации, правительства.&lt;/p&gt;
+&lt;p&gt;One of the oldest languages ​​still in use today was created by Grace Hopper in the late 1950s and was intended to standardize the development of large-scale business applications on computers. A brilliant concept that is still used today in cross-platform SDKs. An incredible 95% of ATM transactions go through COBOL systems, with many of these devices operating 24 hours a day, 365 days a year. Device vendors such as IBM develop more powerful COBOL machines but continue to maintain and upgrade existing systems due to the cost and risk of replacing them. COBOL isn&amp;rsquo;t going anywhere anytime soon. This is a good choice for those who want to work with clients from the financial sector.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fields of application:&lt;/strong&gt; banking/finance, international corporations, governments.&lt;/p&gt;
 &lt;h2 id=&#34;cc&#34;&gt;C/C++&lt;/h2&gt;
-&lt;p&gt;Эти языки часто занимают вершины различных рейтингов — их ценят за мощность и быстродействие. C был создан в начале 1970-х годов Деннисом Ритчи, C ++ в 1985 году разработал Бьёрн Страуструп. Сегодня два этих языка лежат в основе всего: от ОС и игр до современных научных вычислений и машинного обучения. C и C++ хорошо подходят для требовательных приложений, которым важны низкоуровневый доступ к оборудованию и производительность. Для освоения этих языков нужно время и определенные усилия.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Область применения:&lt;/strong&gt; разработка ОС / SDK, встроенные устройства, игровые движки, наука.&lt;/p&gt;
+&lt;p&gt;These languages ​​often occupy the top of various ratings - they are valued for their power and speed. C was created in the early 1970s by Dennis Ritchie, C++ was developed by Bjorn Stroustrup in 1985. Today, these two languages ​​underpin everything from operating systems and games to modern scientific computing and machine learning. C and C++ are well suited for demanding applications that value low-level hardware access and performance. Learning these languages ​​takes time and effort.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Scope:&lt;/strong&gt; OS / SDK development, embedded devices, game engines, science.&lt;/p&gt;
 &lt;h2 id=&#34;c&#34;&gt;C#&lt;/h2&gt;
-&lt;p&gt;C#, выпущенный Microsoft в 2000 году, был разработан Андерсом Хейлсбергом как кроссплатформенный язык объектно-ориентированного программирования. Сейчас он часто используется для разработки бизнес-приложений, API, игр и многого другого. Благодаря широкому набору функций этот язык подходит для работы с графикой и других задач асинхронного программирования.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Области применения:&lt;/strong&gt; корпоративные приложения, разработка программного и пользовательского интерфейса, игры, графика.&lt;/p&gt;
+&lt;p&gt;C#, released by Microsoft in 2000, was developed by Anders Hejlsberg as a cross-platform object-oriented programming language. It is now often used to develop business applications, APIs, games, and more. Due to its wide feature set, this language is suitable for graphics and other asynchronous programming tasks.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fields of application:&lt;/strong&gt; corporate applications, software and user interface development, games, graphics.&lt;/p&gt;
 &lt;h2 id=&#34;dart&#34;&gt;Dart&lt;/h2&gt;
-&lt;p&gt;Современный язык, разработанный в Google для создания мобильных, десктопных, веб-и серверных приложений. Его создатель Ларс Бак также придумал JavaSript Engine V8. Dart напоминает другие современные языки объектно-ориентированного программирования — C #, TypeScript и Java — и предоставляет обширный набор функций, подходящих для определения сложных взаимодействий, асинхронных операций, анимации и других задач.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Области применения:&lt;/strong&gt; кроссплатформенные приложения, облачные сервисы / корпоративные системы, игры, графика.&lt;/p&gt;
+&lt;p&gt;A modern language developed by Google for building mobile, desktop, web and server applications. Its creator Lars Bak also came up with the JavaSript Engine V8. Dart resembles other modern object-oriented programming languages—C#, TypeScript, and Java—and provides a rich set of features suitable for defining complex interactions, asynchronous operations, animation, and other tasks.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Application areas:&lt;/strong&gt; cross-platform applications, cloud services / enterprise systems, games, graphics.&lt;/p&gt;
 &lt;h2 id=&#34;fortran&#34;&gt;Fortran&lt;/h2&gt;
-&lt;p&gt;Fortran, разработанный в IBM в 1950-х годах Джоном Бакусом, — это язык общего назначения, который был создан для проведения научных и инженерных работ. Он до сих пор широко используется в этих целях, в том числе для контрольного тестирования самых быстрых суперкомпьютеров в мире. Он также применялся в космических и физических исследованиях и моделировании погоды.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Области применения:&lt;/strong&gt; аэрокосмическая/оборонная промышленность, научные вычисления, численный анализ.&lt;/p&gt;
+&lt;p&gt;Fortran, developed at IBM in the 1950s by John Backus, is a general-purpose language that was created for scientific and engineering work. It is still widely used for these purposes, including benchmark testing of the world&amp;rsquo;s fastest supercomputers. It has also been applied in space and physics research and weather modeling.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Applications:&lt;/strong&gt; aerospace/defense, scientific computing, numerical analysis.&lt;/p&gt;
 &lt;h2 id=&#34;java&#34;&gt;Java&lt;/h2&gt;
-&lt;p&gt;Java — это ООП-язык общего назначения, разработанный в 1990-х годах Джеймсом Гослингом в Sun (сейчас принадлежит Oracle) и предназначенный для компиляции в байт-код для запуска на виртуальной машине Java. К 2020 году к ним относятся практически все виды устройств — от телевизоров и игровых приставок до серверов, телефонов и даже кухонных приборов. Язык широко распространен в корпорациях и университетах, что сделало его популярным как среди начинающих программистов, так и среди опытных разработчиков.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Области применения:&lt;/strong&gt; корпоративные приложения, встроенные системы, веб-сервисы, игры.&lt;/p&gt;
-&lt;h2 id=&#34;javascript&#34;&gt;JavaScript&lt;/h2&gt;
-&lt;p&gt;JavaScript разработал Брэндон Айх в 1990-х годах, чтобы добавлять выполнение скриптов на сайты. Сегодня это универсальный язык веб-интерфейса с мощными стандартизированными функциями, которые поддерживаются всеми основными браузерами. JavaScript соответствует стандарту EcmaScript, который обновляется каждые несколько лет с добавлением новых спецификаций языка. Кроме того, JavaScript часто используется для разработки серверных служб и API, мобильных приложений, игр и другого программного обеспечения. Это отличный выбор для изучения и дальнейшего совершенствования.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Области применения:&lt;/strong&gt; фулстэк-разработка, облачные сервисы / контейнерное хранение, игры, утилиты.&lt;/p&gt;
+&lt;p&gt;Java is a general-purpose OOP language developed in the 1990s by James Gosling at Sun (now owned by Oracle) and designed to be compiled into bytecode to run on the Java virtual machine. By 2020, this includes almost every kind of device, from TVs and game consoles to servers, phones and even kitchen appliances. The language is widely used in corporations and universities, which has made it popular among both novice programmers and experienced developers.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Applicable areas:&lt;/strong&gt; enterprise applications, embedded systems, web services, games.&lt;/p&gt;
+&lt;p&gt;##JavaScript&lt;/p&gt;
+&lt;p&gt;JavaScript was developed by Brandon Eich in the 1990s to add scripting to websites. Today it is a universal web interface language with powerful, standardized features that are supported by all major browsers. JavaScript conforms to the EcmaScript standard, which is updated every few years with new language specifications. In addition, JavaScript is often used to develop back-end services and APIs, mobile applications, games, and other software. This is an excellent choice for learning and further improvement.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fields of application:&lt;/strong&gt; full-stack development, cloud services / container storage, games, utilities.&lt;/p&gt;
 &lt;h2 id=&#34;julia&#34;&gt;Julia&lt;/h2&gt;
-&lt;p&gt;Современный язык высокого уровня, предназначенный для высокопроизводительной числовой обработки и статистического анализа. Julia разработали в 2009 году Джефф Безансон, Стефан Карпински, Вирал Б. Шах и Алан Эдельман. Это один из четырех языков, позволяющих достигать производительности суперкомпьютеров на уровне петафлопсов (наряду с C, C ++ и Fortran). Пользуется популярностью в университетах, правительствах и финансовых учреждениях.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Области применения:&lt;/strong&gt; финансовый анализ, математические исследования, научные вычисления.&lt;/p&gt;
+&lt;p&gt;A modern high-level language designed for high-performance numerical processing and statistical analysis. Julia was developed in 2009 by Jeff Besanson, Stefan Karpinski, Viral B. Shah and Alan Edelman. It is one of four languages ​​that can achieve petaflops of supercomputing performance (along with C, C++, and Fortran). Popular with universities, governments and financial institutions.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fields of application:&lt;/strong&gt; financial analysis, mathematical research, scientific computing.&lt;/p&gt;
 &lt;h2 id=&#34;kotlin&#34;&gt;Kotlin&lt;/h2&gt;
-&lt;p&gt;Kotlin, разработанный для взаимодействия с Java, оснащен возможностями функционального программирования и функциями ООП, включая работу с ламбда-выражениями, перегрузку операторов и так далее. В 2019 году Google назвал Kotlin предпочтительным языком для разработки под Android, поэтому его точно стоит изучить тем, кто планирует создавать приложения для Android и плагины для популярных SDK.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Области применения:&lt;/strong&gt; приложения для Android, разработка на стороне сервера, а также все сферы, где используется Java.&lt;/p&gt;
+&lt;p&gt;Designed to interact with Java, Kotlin is packed with functional programming and OOP features, including lambda expressions, operator overloading, and so on. In 2019, Google named Kotlin as the language of choice for Android development, so it&amp;rsquo;s definitely worth learning for those who plan to build Android apps and plugins for popular SDKs.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Applicable areas:&lt;/strong&gt; Android applications, server-side development, and all areas where Java is used.&lt;/p&gt;
 &lt;h2 id=&#34;lisp&#34;&gt;Lisp&lt;/h2&gt;
-&lt;p&gt;Lisp — это группа языков, связанных с исторической реализацией LISP, которая была разработана в MIT в 1950-х годах для описания программ математическим способом. Синтаксис в Lisp основан на s-выражениях — это отличает его от большинства других языков, многие из которых связаны с С или находятся под его влиянием. Lisp был популярен в ранних исследованиях ИИ и широко применялся как язык скриптов для САПР и других инженерных приложений, так как он воспринимает код в виде данных и позволяет настраивать язык с помощью макросов , что отличает его от более статичных языков. Среди известных приложений на его основе —AutoLisp (скрипт для AutoCad) и Roomba. Один из языков семейства, Clojure, особенно удобен для создания масштабных приложений для бизнеса и интернета.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Области применения:&lt;/strong&gt; искусственный интеллект, робототехника, написание скриптов, расширения языков, исследования, разработка.&lt;/p&gt;
-&lt;h2 id=&#34;lua&#34;&gt;Lua&lt;/h2&gt;
-&lt;p&gt;Lua был разработан в 1993 году Роберто Иерузалимски для встраивания в другие приложения. Сейчас он широко используется в качестве языка скриптов для добавления новых функций в программы. Например, с его помощью можно дополнять описание игровой логики при разработке видеоигр или расширить набор пользовательских функций в графических приложениях.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Области применения:&lt;/strong&gt; расширения программного обеспечения, игровая логика, автоматизация, электроника / интернет вещей.&lt;/p&gt;
+&lt;p&gt;Lisp is a group of languages ​​related to the historical implementation of LISP, which was developed at MIT in the 1950s to describe programs in a mathematical way. The syntax in Lisp is based on s-expressions, which distinguishes it from most other languages, many of which are related to or influenced by C. Lisp was popular in early AI research and was widely used as a scripting language for CAD and other engineering applications because it treats code as data and allows language customization via macros, which distinguishes it from more static languages. Notable applications based on it include AutoLisp (a script for AutoCad) and Roomba. One of the languages ​​in the family, Clojure, is especially useful for building large scale business and web applications.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fields of application:&lt;/strong&gt; artificial intelligence, robotics, scripting, language extensions, research, development.&lt;/p&gt;
+&lt;p&gt;##lua&lt;/p&gt;
+&lt;p&gt;Lua was developed in 1993 by Roberto Jeruzalimski for embedding in other applications. It is now widely used as a scripting language for adding new features to programs. For example, it can be used to supplement the description of game logic in the development of video games or expand the set of user functions in graphic applications.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fields of application:&lt;/strong&gt; software extensions, game logic, automation, electronics / internet of things.&lt;/p&gt;
 &lt;h2 id=&#34;powershell&#34;&gt;PowerShell&lt;/h2&gt;
-&lt;p&gt;PowerShell был разработан Microsoft в 2006 году для предоставления Unix-подобных функций интерфейса командной строки в Windows. Позже он был выпущен с открытым исходным кодом и портирован на macOS, CentOS и Ubuntu. PowerShell широко применяется в системах, использующих Windows Server и другие технологии Microsoft: он делает администрирование удобнее и снижает затраты на обслуживание.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Области применения:&lt;/strong&gt; системное администрирование Windows, интерфейс командной строки, скрипты, обслуживание.&lt;/p&gt;
-&lt;h2 id=&#34;python&#34;&gt;Python&lt;/h2&gt;
-&lt;p&gt;Python, представленные в 1991 году Гвидо ван Россумом, был задуман как хорошо читаемый язык с функциями ООП, предполагающий использование функциональных парадигм для построения чистых и хорошо организованных программ. Python пользуется поддержкой крупных платформ и применяется в самых разных сферах, в том числе в науке, интеллектуальной обработке данных, разработке систем искусственного интеллекта, компьютерной графике для художественных фильмов, облачных вычислениях, разработке игр и многих других. Python хорошо зарекомендовал себя и останется одним из наиболее востребованных инструментов в течение долгого времени.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Области применения:&lt;/strong&gt; искусственный интеллект / машинное обучение, интеллектуальная обработка данных, облачные сервисы / веб, медиа, скрипты.&lt;/p&gt;
+&lt;p&gt;PowerShell was developed by Microsoft in 2006 to provide Unix-like command-line interface functionality on Windows. It was later released as open source and ported to macOS, CentOS and Ubuntu. PowerShell is widely used on systems that use Windows Server and other Microsoft technologies to make administration easier and reduce maintenance costs.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Application areas:&lt;/strong&gt; Windows system administration, command line interface, scripts, maintenance.&lt;/p&gt;
+&lt;p&gt;##Python&lt;/p&gt;
+&lt;p&gt;Python, introduced in 1991 by Guido van Rossum, was conceived as a highly readable language with OOP features, using functional paradigms to build clean and well-organized programs. Python is supported by major platforms and is used in a wide variety of fields, including science, data mining, artificial intelligence development, computer graphics for feature films, cloud computing, game development, and many others. Python is well established and will remain one of the most requested tools for a long time to come.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fields of application:&lt;/strong&gt; artificial intelligence / machine learning, data mining, cloud services / web, media, scripts.&lt;/p&gt;
 &lt;h2 id=&#34;r&#34;&gt;R&lt;/h2&gt;
-&lt;p&gt;R был выпущен в 1995 году для статистических вычислений и выполнения других сложных математических операций, связанных с анализом данных и графикой. Корпорация Fortune 500 часто использует R для проведения комплексного анализа рисков, тенденций поведения клиентов и других задач, требующих большого количества вычислений. R отличается от многих языков статистики, а его синтаксис на основе s-выражений напоминает Lisp. Несмотря на то, что для других целей R используется редко, он считается стандартом в сфере аналитики данных, особенно для прогнозирования рынков или анализа пользовательских тенденций.&lt;/p&gt;
-&lt;p&gt;Области применения: интеллектуальная обработка данных, прогнозная аналитика, графика.&lt;/p&gt;
+&lt;p&gt;R was released in 1995 for statistical calculations and other complex mathematical operations related to data analysis and graphics. The Fortune 500 often uses R to perform complex risk analysis, customer trends, and other computationally intensive tasks. R is different from many statistics languages, and its s-expression-based syntax is reminiscent of Lisp. Although rarely used for other purposes, R is considered the standard in data analytics, especially for market forecasting or user trend analysis.&lt;/p&gt;
+&lt;p&gt;Applications: data mining, predictive analytics, graphics.&lt;/p&gt;
 &lt;h2 id=&#34;ruby&#34;&gt;Ruby&lt;/h2&gt;
-&lt;p&gt;Ruby был разработан Юкихиро Мацумото в 1995 году в качестве объектно-ориентированного языка скриптов, чтобы компенсировать отсутствие функций ООП в других скриптовых языках программирования того времени. Наличие таких функций, как динамическая типизация, наследование, отражение и перегрузка операторов, делают его идеальным для созданий сложных скриптов и приложений для веб-серверов.&lt;/p&gt;
-&lt;p&gt;Области применения: сложные скрипты, управление пакетами, утилиты, веб-сервера.&lt;/p&gt;
+&lt;p&gt;Ruby was developed by Yukihiro Matsumoto in 1995 as an object-oriented scripting language to make up for the lack of OOP features in other scripting programming languages ​​of the time. Features such as dynamic typing, inheritance, reflection, and operator overloading make it ideal for creating complex scripts and web server applications.&lt;/p&gt;
+&lt;p&gt;Applications: complex scripts, package management, utilities, web servers.&lt;/p&gt;
 &lt;h2 id=&#34;rust&#34;&gt;Rust&lt;/h2&gt;
-&lt;p&gt;Rust — это мультипарадигмальный язык, предназначенный для создания крупных параллельных систем, обладающих высокой производительностью и надежностью. С 2016 года Rust ежегодно признавался самым популярным языком программирования в опросе StackOverflow. Будучи языком системного уровня, похожим на C ++ и не требующим длительной обработки или наличия виртуальной машины, Rust обеспечивает низкоуровневый доступ к оборудованию. Благодаря этому он идеально подходит для разработки операционных систем, программ для микроконтроллеров и другого софта, в котором решающее значение имеет производительность железа.&lt;/p&gt;
-&lt;p&gt;Области применения: разработка ОС, встроенные приложения, сервера, инструменты, игры.&lt;/p&gt;
+&lt;p&gt;Rust is a multi-paradigm language designed for building large-scale parallel systems with high performance and reliability. Since 2016, Rust has been voted the most popular programming language in a StackOverflow poll every year. Being a system-level language similar to C++ and not requiring long processing times or having a virtual machine, Rust provides low-level access to hardware. This makes it ideal for developing operating systems, programs for microcontrollers and other software where hardware performance is critical.&lt;/p&gt;
+&lt;p&gt;Applications: OS development, embedded applications, servers, tools, games.&lt;/p&gt;
 &lt;h2 id=&#34;sql&#34;&gt;SQL&lt;/h2&gt;
-&lt;p&gt;SQL относится к универсальным языкам программирования, но является мощным предметно-ориентированным языком для управления реляционными базами данных. Способы его применения — от хранилищ данных Fortune 500 до встроенного SQLite — широко используются в десктопных и мобильных приложениях. На многих позициях в ИТ и разработке необходимо хотя бы базовое знание SQL. Расширенные навыки позволяют разработчику создавать чрезвычайно безопасные и надежные правила предметной области, не зависящие от языка программирования или используемого SDK. Высокопрофильные реализации включают в себя Microsoft SQL Server, Oracle Database и PostgreSQL. Каждая из них обладает уникальным расширением языка SQL и предлагает новые функции, выходящие за рамки базовой спецификации SQL. Изучение SQL не займет много времени и пригодится во многих областях от аналитики и обработки данных до управления в сфере ИТ и разработки программного обеспечения.&lt;/p&gt;
-&lt;p&gt;Области применения: работа с реляционными данными, встраивание данных в приложения.&lt;/p&gt;
+&lt;p&gt;SQL is a general purpose programming language but is a powerful domain-specific language for managing relational databases. Its applications, from Fortune 500 data warehouses to embedded SQLite, are widely used in desktop and mobile applications. Many positions in IT and development require at least a basic knowledge of SQL. Advanced skills allow the developer to create extremely secure and robust domain rules that are independent of the programming language or SDK used. High profile implementations include Microsoft SQL Server, Oracle Database, and PostgreSQL. Each of them has a unique extension of the SQL language and offers new features that go beyond the core SQL specification. Learning SQL does not take much time and will come in handy in many areas from analytics and data processing to IT management and software development.&lt;/p&gt;
+&lt;p&gt;Applications: working with relational data, embedding data in applications.&lt;/p&gt;
 &lt;h2 id=&#34;swift&#34;&gt;Swift&lt;/h2&gt;
-&lt;p&gt;Swift был выпущен Apple в 2014 году в качестве замены Objective-C в их продуктах (аналогично тому, как Kotlin заменил Java для Android). Swift сохраняет некоторые функции Objective-C (такие как динамическая диспетчеризация), используемые в программном обеспечении продуктов Apple, но отличается повышенной безопасностью и измененным синтаксисом, более близким к C # или Java.&lt;/p&gt;
-&lt;p&gt;Области применения: создание приложений для macOS, iOS, watchOS и так далее.&lt;/p&gt;
-&lt;h2 id=&#34;typescript&#34;&gt;TypeScript&lt;/h2&gt;
-&lt;p&gt;TypeScript — это язык с открытым исходным кодом от Microsoft, разработанный для добавления функций ООП в JavaScript и повышения удобства работы со сложными приложениями. TypeScript, представленный в 2012 году, обычно используется для создания надежных масштабируемых веб-приложений, сред и других программ — например, популярного редактора VS Code.&lt;/p&gt;
-&lt;p&gt;Области применения: веб-интерфейс, разработка программного интерфейса, игры, масштабирование любого программного обеспечения JavaScript.&lt;/p&gt;
-&lt;h1 id=&#34;вывод&#34;&gt;Вывод&lt;/h1&gt;
-&lt;p&gt;Для успешной карьеры в ИТ нужно владеть хотя бы несколькими языками из данного списка. У каждого из них есть свои сильные и слабые стороны: эффективнее всего использовать преимущества конкретной среды и искать другие инструменты для тех областей, в которых система работает не так успешно. Если какой-то язык не подходит для решения определенной задачи, найдите тот, который пригодится больше. Существует множество стилей программирования и десятки шаблонов проектирования для каждого из перечисленных языков.&lt;/p&gt;
-&lt;h1 id=&#34;всем-спасибо-за-внимание&#34;&gt;Всем спасибо за внимание!&lt;/h1&gt;
+&lt;p&gt;Swift was released by Apple in 2014 as a replacement for Objective-C in their products (similar to how Kotlin replaced Java for Android). Swift retains some of the Objective-C features (such as dynamic dispatch) used in Apple product software, but features increased security and a modified syntax closer to C# or Java.&lt;/p&gt;
+&lt;p&gt;Applications: creating applications for macOS, iOS, watchOS and so on.&lt;/p&gt;
+&lt;h2 id=&#34;typescript&#34;&gt;Typescript&lt;/h2&gt;
+&lt;p&gt;TypeScript is an open source language from Microsoft designed to add OOP functionality to JavaScript and improve the usability of complex applications. TypeScript, introduced in 2012, is commonly used to build robust, scalable web apps, frameworks, and other programs, such as the popular VS Code editor.&lt;/p&gt;
+&lt;p&gt;Applications: web interface, API development, games, scaling any JavaScript software.&lt;/p&gt;
+&lt;h1 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h1&gt;
+&lt;p&gt;For a successful career in IT, you need to know at least several languages ​​from this list. Each of them has its own strengths and weaknesses: it is best to take advantage of a particular environment and look for other tools for those areas where the system does not perform as well. If a language is not suitable for a particular task, find one that is more useful. There are many programming styles and dozens of design patterns for each of these languages.&lt;/p&gt;
+&lt;h1 id=&#34;thank-you-all-for-your-attention&#34;&gt;Thank you all for your attention!&lt;/h1&gt;
 </description>
     </item>
     
     <item>
-      <title>Оформление отчёта.</title>
-      <link>https://example.com/post/post5/</link>
-      <pubDate>Thu, 19 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/post5/</guid>
-      <description>&lt;h1 id=&#34;лабораторная-работа-является-небольшой-научно-исследовательской-работой-которую-и-оформлять-следует-по-всем-утверждённым-требованиям-при-подготовке-отчета-по-лабораторной-работе-вы-освоите-ряд-важных-элементов-которые-в-дальнейшем-пригодятся-вам-при-написании-курсовой-и-дипломной-работы&#34;&gt;Лабораторная работа является небольшой научно-исследовательской работой, которую и оформлять следует по всем утверждённым требованиям. При подготовке отчета по лабораторной работе вы освоите ряд важных элементов, которые в дальнейшем пригодятся вам при написании курсовой и дипломной работы.&lt;/h1&gt;
-&lt;h2 id=&#34;структура-отчёта&#34;&gt;Структура отчёта&lt;/h2&gt;
-&lt;p&gt;Согласно ГОСТ 7.32-2001, любая научно-исследовательская работа должна обязательно
-содержать следующие элементы:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;титульный лист;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;реферат;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;введение;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;основную часть;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;заключение.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Также ГОСТ рекомендует включить в работу и такие элементы:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;список исполнителей;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;содержание;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;нормативные ссылки;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;определения;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;обозначения и сокращения;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;список использованных источников;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;приложения.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Если вы проводите сложную работу, выполняемую в несколько этапов, то вам может
-понадобиться включить в работу часть или все элементы второго списка.&lt;/p&gt;
-&lt;h2 id=&#34;содержание-основных-элементов-отчета&#34;&gt;Содержание основных элементов отчета**&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Титульный лист&lt;/strong&gt;. Первый лист работы оформляется строго по образцу, который обычно приводится в методических пособиях по вашему предмету. В нем не просто требуется указать такие элементы, как название образовательного учреждения, вид работы и сведения об исполнителе, но и расположить их в строгом соответствии со стандартами.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Реферат&lt;/strong&gt;. Реферат фактически является кратким представлением всего вашего отчета и содержит ряд статистических сведений. В нем нужно указать количество частей, страниц работы, иллюстраций, приложений, таблиц, использованных литературных источников и приложений. Здесь же приводится перечень ключевых слов работы и собственно текст реферата. Последний подразумевает основные элементы работы от поставленных целей до результатов и рекомендаций по их внедрению. В практике вузов в отчеты по лабораторным работам реферат обычно не включают.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Введение&lt;/strong&gt;. Во введении типовой лабораторной работы обычно прописывают цели проводимого исследования и задачи, выполнение которых поможет достичь поставленных целей. В то же время существуют работы, в которых студенты становятся настоящими первооткрывателями. Приходилось ли вам хотя бы однажды испытывать чувство крайнего любопытства и нетерпения при проведении лабораторной работы? Ощущать, что буквально через пару минут вы найдете ответ на вопрос, на который еще никто и никогда не находил ответа? Именно для таких исследований пишется развернутое введение с доказательством актуальности и новизны изучаемой темы. Чтобы действительно провести исследование в той области, в которой, как говорится, еще неступала нога человека, во введении вам понадобится привести оценку современного состояния рассматриваемой проблемы и обосновать необходимость ее решения.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Основная часть&lt;/strong&gt;. Так как в разных вузах и в разных дисциплинах существуют свои тонкости проведения лабораторных работ, содержание основной части подробно описывают в соответствующих методичках. Важно, чтобы в этом разделе работы была отражена ее суть, описана методика и результаты проделанной работы.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;В основной части прописывают следующие элементы:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;цели проводимого исследования;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;задачи, выполнение которых поможет достичь поставленных целей;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;ход работы, в котором описываются выполненные действия;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;прочие разделы, предусмотренные методическими материалами по изучаемой
-дисциплине.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;ol start=&#34;5&#34;&gt;
-&lt;li&gt;&lt;strong&gt;Заключение&lt;/strong&gt;. В этой части работы вам потребуется сделать выводы по полученным в ходе лабораторной работы результатам. Для этого оцените, насколько полно выполнены поставленные задачи. В сложных работах могут присутствовать и другие элементы, например, рекомендации для дальнейшего применения результатов проведённой работы.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2 id=&#34;информация&#34;&gt;Информация&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;📚 &lt;a href=&#34;https://kvpodjhyarova.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Мой сайт&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;💬 &lt;a href=&#34;https://vk.com/ksupod&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Вконтакте&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;всем-спасибо-за-внимание&#34;&gt;Всем спасибо за внимание!&lt;/h1&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Пост по прошедшей неделе 12-18 мая</title>
+      <title>Post last week May 12-18</title>
       <link>https://example.com/post/post4/</link>
       <pubDate>Thu, 19 May 2022 00:00:00 +0000</pubDate>
       <guid>https://example.com/post/post4/</guid>
-      <description>&lt;h2 id=&#34;12-18-мая&#34;&gt;12-18 мая&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;Четверг 12 мая&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Четверг 12 мая начался с пары по моему любимому предмету &amp;ldquo;Математический анализ&amp;rdquo; в 9:00. Для этого я проснулась в 7:00, позавтракала и поехала в университет. На первой паре мы писали контрольную работу по теме &amp;ldquo;Степенные ряды&amp;rdquo;. На второй паре мы проходили новую тему - Тройные интегралы. После двух пар математического анализа мы пошли в столовую и вкусно покушали. Затем отправились на пары по дисциплине &amp;ldquo;Операционные системы&amp;rdquo;. Я сделала 10 и 11 лабораторные работы и 4 этап по индивидуальному проекту. Очень продуктиный день!&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Пятница 13 мая&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;В пятницу 13 мая у нас была дистанционная лекция по математическому анализу. Больше пар не было! Весь день я с друзьями гуляла по прекрасной Москве. Было здорово!&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Суббота и воскресенье (14-15 мая)&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;В субботу мы ходили в театр. После театра мы пошли в кафе. Прекрасно провели вечер.&lt;/p&gt;
-&lt;p&gt;Во воскресенье я делала домашнее задание на предстоящую неделю. Вечером сходила погулять с друзьями.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Понедельник 16 мая&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;14 мая у нас была лекция по дисциплине &amp;ldquo;Операционные системы&amp;rdquo;. На ней я узнала много нового. После я поехала на пары по английскому языку. На них мы начали подготовку к экзамену, который будет 30 мая.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Среда 18 мая&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;В среду 18 мая у нас было 2 семинара по Математической логике. На первой паре мы писали контрольную работу. На второй паре изучали сложную тему &amp;ldquo;Замкнутые классы&amp;rdquo;.&lt;/p&gt;
-&lt;h2 id=&#34;информация&#34;&gt;Информация&lt;/h2&gt;
+      <description>&lt;h2 id=&#34;may-12-18&#34;&gt;May 12-18&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Thursday May 12th&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Thursday 12 May started with a class in my favorite subject &amp;ldquo;Calculation&amp;rdquo; at 9:00 am. To do this, I woke up at 7:00, had breakfast and went to the university. On the first pair, we wrote a control work on the topic &amp;ldquo;Power Series&amp;rdquo;. On the second pair, we went through a new topic - Triple Integrals. After two pairs of mathematical analysis, we went to the dining room and had a delicious meal. Then we went to pairs in the discipline &amp;ldquo;Operating Systems&amp;rdquo;. I did 10 and 11 labs and stage 4 on an individual project. A very productive day!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Friday May 13th&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;On Friday, May 13, we had a remote lecture on calculus. There were no more couples! All day long I was walking around beautiful Moscow with my friends. Was great!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Saturday and Sunday (May 14-15)&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;On Saturday we went to the theater. After the theater we went to a cafe. Had a great evening.&lt;/p&gt;
+&lt;p&gt;On Sunday I did my homework for the coming week. In the evening I went for a walk with friends.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Monday May 16th&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;On May 14, we had a lecture on the discipline &amp;ldquo;Operating Systems&amp;rdquo;. On it I learned a lot of new things. After that I went to classes in English. On them, we started preparing for the exam, which will be on May 30.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Wednesday 18 May&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;On Wednesday, May 18, we had 2 seminars on Mathematical Logic. During the first session, we wrote a test. The second pair studied the complex topic &amp;ldquo;Closed classes&amp;rdquo;.&lt;/p&gt;
+&lt;h2 id=&#34;information&#34;&gt;Information&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;📚 &lt;a href=&#34;https://kvpodjhyarova.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Мой сайт&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;💬 &lt;a href=&#34;https://vk.com/ksupod&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Вконтакте&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;📚 &lt;a href=&#34;https://kvpodjhyarova.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;My website&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;💬 [Vkontakte] (&lt;a href=&#34;https://vk.com/ksupod&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://vk.com/ksupod&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
     
     <item>
-      <title>Пост по прошедшей неделе</title>
+      <title>Report formatting.</title>
+      <link>https://example.com/post/post5/</link>
+      <pubDate>Thu, 19 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/post5/</guid>
+      <description>&lt;h1 id=&#34;laboratory-work-is-a-small-research-work-which-should-be-drawn-up-according-to-all-approved-requirements-when-preparing-a-report-on-laboratory-work-you-will-master-a-number-of-important-elements-that-will-later-be-useful-to-you-when-writing-term-papers-and-dissertations&#34;&gt;Laboratory work is a small research work, which should be drawn up according to all approved requirements. When preparing a report on laboratory work, you will master a number of important elements that will later be useful to you when writing term papers and dissertations.&lt;/h1&gt;
+&lt;h2 id=&#34;report-structure&#34;&gt;Report structure&lt;/h2&gt;
+&lt;p&gt;According to GOST 7.32-2001, any research work must be
+contain the following elements:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;title page;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;essay;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;introduction;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;the main part;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;conclusion.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;GOST also recommends that the following elements be included in the work:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;list of performers;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;content;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Normative references;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;definitions;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;designations and abbreviations;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;list of sources used;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;applications.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;If you are carrying out complex work that is carried out in several stages, then you may
+you need to include part or all of the elements of the second list.&lt;/p&gt;
+&lt;h2 id=&#34;contents-of-the-main-elements-of-the-report&#34;&gt;Contents of the main elements of the report**&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Title page&lt;/strong&gt;. The first sheet of work is drawn up strictly according to the model, which is usually given in teaching aids for your subject. It not only requires specifying such elements as the name of the educational institution, type of work and information about the performer, but also arrange them in strict accordance with the standards.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;. The abstract is actually a summary of your entire report and contains a number of statistical information. It must indicate the number of parts, pages of work, illustrations, applications, tables, used literary sources and applications. Here is a list of key words of the work and the actual text of the abstract. The latter implies the main elements of the work from the set goals to the results and recommendations for their implementation. In the practice of universities, the abstract is usually not included in the reports on laboratory work.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Introduction&lt;/strong&gt;. In the introduction of a typical laboratory work, the goals of the ongoing research and tasks, the implementation of which will help achieve the goals, are usually prescribed. At the same time, there are works in which students become real pioneers. Have you ever experienced a feeling of extreme curiosity and impatience while doing lab work? Feel that in just a couple of minutes you will find the answer to a question that no one has ever found an answer to? It is for such studies that a detailed introduction is written with proof of the relevance and novelty of the topic under study. In order to really conduct research in an area in which, as they say, no human foot has yet set foot, in the introduction you will need to assess the current state of the problem under consideration and justify the need to solve it.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Main part&lt;/strong&gt;. Since different universities and disciplines have their own subtleties of laboratory work, the content of the main part is described in detail in the relevant manuals. It is important that this section of the work reflects its essence, describes the methodology and results of the work done.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;The main part contains the following elements:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;the purpose of the study;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;tasks, the implementation of which will help achieve the goals;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;a workflow that describes the actions performed;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;other sections provided for by the methodological materials on the studied
+discipline.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;5&#34;&gt;
+&lt;li&gt;&lt;strong&gt;Conclusion&lt;/strong&gt;. In this part of the work, you will need to draw conclusions based on the results obtained during the laboratory work. To do this, evaluate how well the tasks have been completed. Complex works may contain other elements, for example, recommendations for further application of the results of the work carried out.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;information&#34;&gt;Information&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;📚 &lt;a href=&#34;https://kvpodjhyarova.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;My website&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;💬 [Vkontakte] (&lt;a href=&#34;https://vk.com/ksupod&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://vk.com/ksupod&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;thank-you-all-for-your-attention&#34;&gt;Thank you all for your attention!&lt;/h1&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Post last week</title>
       <link>https://example.com/post/post2/</link>
       <pubDate>Thu, 12 May 2022 00:00:00 +0000</pubDate>
       <guid>https://example.com/post/post2/</guid>
-      <description>&lt;h2 id=&#34;5-12-мая&#34;&gt;5-12 мая&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;Четверг 5 мая&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Четверг 5 мая начался с пары по моему любимому предмету &amp;ldquo;Математический анализ&amp;rdquo; в 9:00. Для этого я проснулась в 7:00, позавтракала и поехала в университет. Дорога от моего общежития до корпуса университета, в котором я учусь, занимает 1 час. На парах мы проходили новую тему - Двойные интегралы. После двух пар математического анализа мы пошли в столовую и вкусно покушали. Затем отправились на пары по дисциплине &amp;ldquo;Операционные системы&amp;rdquo;. Я сделала 7 и 8 лабораторные работы и 2 этап по индивидуальному проекту. Вернулась домой в 21 час.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Пятница 6 мая&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;В пятницу 6 мая у нас была дистанционная лекция по математическому анализу. Больше пар не было! Весь день я с друзьями гуляла по прекрасной Москве. Было здорово!&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Суббота и воскресенье (7-8 мая)&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;В субботу я отправилась в гости к своей старшей сестре Насте в Балашиху. Мы отлично провели время, общаясь с родственниками и друзьями.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Понедельник 9 мая&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;9 мая большой праздник - День Победы! Мы смотрели парад военной техники, ходили в Парк Горького и на Поклонную гору. В Парке Горького было 2 концерта, различные &amp;ldquo;станции&amp;rdquo;, где мы могли немного окунуться в то военное время, а также нас покормили гречневой кашей с мясом. На Поклонной горе был большой концерт. На нём выступали звезды из стран СНГ, хоры, читали стихи. В 22:00 был салют, нам очень понравился! С Праздником Великой Победы!!!&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Среда 11 мая&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;В среду 11 мая у нас было 2 семинара по Математической логике. Нам сообщили, что на следующей неделе мы пишем контрольную работу. Конечно же, я и мои одногруппники очень рады!&lt;/p&gt;
-&lt;h2 id=&#34;информация&#34;&gt;Информация&lt;/h2&gt;
+      <description>&lt;h2 id=&#34;may-5-12&#34;&gt;May 5-12&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Thursday May 5th&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Thursday May 5th started with a class in my favorite subject &amp;ldquo;Calculus&amp;rdquo; at 9:00. To do this, I woke up at 7:00, had breakfast and went to the university. The road from my hostel to the building of the university where I study takes 1 hour. In pairs, we went through a new topic - Double Integrals. After two pairs of mathematical analysis, we went to the dining room and had a delicious meal. Then we went to pairs in the discipline &amp;ldquo;Operating Systems&amp;rdquo;. I did 7 and 8 labs and stage 2 on an individual project. Returned home at 21:00.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Friday May 6th&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;On Friday, May 6, we had a remote lecture on calculus. There were no more couples! All day long I was walking around beautiful Moscow with my friends. Was great!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Saturday and Sunday (May 7-8)&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;On Saturday I went to visit my older sister Nastya in Balashikha. We had a great time talking with family and friends.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Monday May 9th&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;May 9 is a big holiday - Victory Day! We watched the parade of military equipment, went to Gorky Park and Poklonnaya Hill. There were 2 concerts in Gorky Park, various &amp;ldquo;stations&amp;rdquo; where we could plunge a little into that wartime, and they also fed us buckwheat porridge with meat. There was a big concert on Poklonnaya Hill. It was attended by stars from the CIS countries, choirs, recited poetry. At 22:00 there was fireworks, we really liked it! Happy Victory Day!!!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Wednesday May 11th&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;On Wednesday, May 11, we had 2 seminars on Mathematical Logic. We were told that we were writing a test next week. Of course, my classmates and I are very happy!&lt;/p&gt;
+&lt;h2 id=&#34;information&#34;&gt;Information&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;📚 &lt;a href=&#34;https://kvpodjhyarova.github.io/post/getting-started/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Мой сайт&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;💬 &lt;a href=&#34;https://vk.com/ksupod&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Вконтакте&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;📚 &lt;a href=&#34;https://kvpodjhyarova.github.io/post/getting-started/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;My website&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;💬 [Vkontakte] (&lt;a href=&#34;https://vk.com/ksupod&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://vk.com/ksupod&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
     
     <item>
-      <title>Легковесные языки разметки.</title>
+      <title>Hello Sheregesh!</title>
+      <link>https://example.com/post/getting-started/</link>
+      <pubDate>Thu, 05 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/getting-started/</guid>
+      <description>&lt;h2 id=&#34;short-review&#34;&gt;Short review&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;one. The main thing&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;One of the most famous ski resorts in Russia is located at the meeting point of the Altai Mountains with the Sayan Mountains, in Mountain Shoria. For the beauty of the relief, it is often called the Siberian Switzerland. It has everything for relaxation - from dog sledding to helicopter rides, from spa services to nightclubs. In summer, Mountain Shoria is ideal for mountain walks and excursions to caves.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2. Story&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The name of the region came from the indigenous people, the Shors. Mountain Shoria is a region famous for iron ore deposits. Since the 19th century, iron has been mined here, as well as wood, pine nuts and fur-bearing animals. In Soviet times, the region was infamous for the huge number of Gulag institutions.&lt;/p&gt;
+&lt;p&gt;The ski resort was built in Sheregesh in 1981 for the Spartakiad of the peoples of the RSFSR, but it received the most active development only in 2000.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;3. Impression&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The phenomenon of Sheregesh is skiers in swimsuits. Winters in Sheregesh, although sunny, are frosty. In April, the temperature rises to + 10-15 degrees, the bright sun warms skiers, ski jackets quickly change into swimsuits.&lt;/p&gt;
+&lt;p&gt;In general, the resort is extremely atmospheric. Before the advent of Krasnaya Polyana, it was the most visited in Russia, and not only Siberians came here, but also residents of central Russia. Many are in love with its homely atmosphere and the hospitality of the locals and return year after year, affectionately calling Geshem.&lt;/p&gt;
+&lt;h2 id=&#34;information&#34;&gt;Information&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;👉 &lt;a href=&#34;https://www.youtube.com/watch?list=PLlvt76SOdoJpIVyVNUdVNTv2k5ajcve6C&amp;amp;v=dCZTEoKzPPI&amp;amp;feature=emb_imp_woyt&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Link to the implementation of the 1st stage of an individual project on Youtube&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;📚 &lt;a href=&#34;https://kvpodjhyarova.github.io/post/getting-started/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;My website&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;💬 [Vkontakte] (&lt;a href=&#34;https://vk.com/ksupod&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://vk.com/ksupod&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;-click-here-to-become-a-sponsor-httpsvkcomksupod&#34;&gt;&lt;a href=&#34;https://vk.com/ksupod&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;❤️ Click here to become a sponsor ❤️&lt;/a&gt;&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Lightweight markup languages.</title>
       <link>https://example.com/post/post3/</link>
       <pubDate>Thu, 05 May 2022 00:00:00 +0000</pubDate>
       <guid>https://example.com/post/post3/</guid>
-      <description>&lt;h2 id=&#34;содержание&#34;&gt;Содержание&lt;/h2&gt;
+      <description>&lt;h2 id=&#34;content&#34;&gt;Content&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;
-&lt;p&gt;Общая информация&lt;/p&gt;
+&lt;p&gt;General information&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Представители&lt;/p&gt;
+&lt;p&gt;Representatives&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Легковесные языки для записи математических выражений&lt;/p&gt;
+&lt;p&gt;Lightweight languages ​​for writing mathematical expressions&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;&lt;strong&gt;1. Общая информация&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Предназначены для простого и быстрого добавления форматирования в текстовые данные.&lt;/p&gt;
-&lt;p&gt;Особенности:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;one. General information&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Designed to easily and quickly add formatting to text data.&lt;/p&gt;
+&lt;p&gt;Peculiarities:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;
-&lt;p&gt;Минимум функций.&lt;/p&gt;
+&lt;p&gt;Minimum of functions.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Небольшой набор поддерживаемых тегов.&lt;/p&gt;
+&lt;p&gt;A small set of supported tags.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Легки в освоении.&lt;/p&gt;
+&lt;p&gt;Easy to learn.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Исходный текст на таком языке читается с такой же лёгкостью, как и готовый документ.&lt;/p&gt;
+&lt;p&gt;The source text in such a language is read with the same ease as the finished document.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;&lt;strong&gt;2. Представители&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2. Representatives&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Markdown&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Org-mode&lt;/p&gt;
-&lt;/li&gt;
+&lt;li&gt;Markdown&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;*Org-mode&lt;/p&gt;
+&lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;BBCode&lt;/p&gt;
 &lt;/li&gt;
@@ -305,66 +363,39 @@
 &lt;p&gt;Textile&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Вики-разметка&lt;/p&gt;
+&lt;p&gt;Wiki markup&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;3. Легковесные языки для записи математических выражений&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;3. Lightweight languages ​​for writing mathematical expressions&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;📚 &lt;a href=&#34;https://yamadharma.github.io/ru/post/2021/10/25/asciimath/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;AsciiMath&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;информация&#34;&gt;Информация&lt;/h2&gt;
+&lt;h2 id=&#34;information&#34;&gt;Information&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;📚 &lt;a href=&#34;https://kvpodjhyarova.github.io/post/getting-started/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Мой сайт&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;💬 &lt;a href=&#34;https://vk.com/ksupod&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Вконтакте&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;📚 &lt;a href=&#34;https://kvpodjhyarova.github.io/post/getting-started/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;My website&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;💬 [Vkontakte] (&lt;a href=&#34;https://vk.com/ksupod&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://vk.com/ksupod&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;всем-спасибо-за-внимание&#34;&gt;Всем спасибо за внимание!&lt;/h2&gt;
 </description>
     </item>
     
     <item>
-      <title>Привет, Шерегеш!</title>
-      <link>https://example.com/post/getting-started/</link>
-      <pubDate>Thu, 05 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/getting-started/</guid>
-      <description>&lt;h2 id=&#34;краткий-обзор&#34;&gt;Краткий обзор&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;1. Главное&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Один из самых известных горнолыжных курортов России находится в месте встречи Алтайских гор с Саянами, в Горной Шории. За красоту рельефа его часто называют Сибирской Швейцарией. Здесь есть все для отдыха – от катания на собачьих упряжках до вертолетных забросок, от услуг спа до ночных клубов. Летом же Горная Шория идеальна для прогулок по горам и экскурсий в пещеры.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;2. История&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Название региона пошло от коренного народа, шорцев. Горная Шория – регион, известный месторождениями железной руды. С XIX века здесь добывали, собственно, железо, а также древесину, кедровые орехи и пушных зверей. В советские времени регион печально известен огромным количеством учреждений ГУЛАГ.&lt;/p&gt;
-&lt;p&gt;Горнолыжный курорт построен в Шерегеше в 1981 году под проведение Спартакиады народов РСФСР, но наиболее активное развитие получил только в 2000 г.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;3. Впечатления&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Феномен Шерегеша – это лыжники в купальниках. Зимы в Шерегеше хотя и солнечные, но морозные. В апреле же температура повышается до +10-15 градусов, яркое солнце согревает лыжников, горнолыжные куртки быстро меняются на купальники.&lt;/p&gt;
-&lt;p&gt;Вообще, курорт крайне атмосферный. До появления Красной Поляны он был самым посещаемым в России, и ехали сюда не только сибиряки, но и жители центральной России. Многие влюблены в его домашнюю атмосферу и гостеприимство местных жителей и возвращаются год за годом, ласково называя Гешем.&lt;/p&gt;
-&lt;h2 id=&#34;информация&#34;&gt;Информация&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;👉 &lt;a href=&#34;https://www.youtube.com/watch?list=PLlvt76SOdoJpIVyVNUdVNTv2k5ajcve6C&amp;amp;v=dCZTEoKzPPI&amp;amp;feature=emb_imp_woyt&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Ссылка на выполнение 1 этапа индивидуального проекта на Youtube&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;📚 &lt;a href=&#34;https://kvpodjhyarova.github.io/post/getting-started/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Мой сайт&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;💬 &lt;a href=&#34;https://vk.com/ksupod&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Вконтакте&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;-нажмите-здесь-чтобы-стать-спонсором-httpsvkcomksupod&#34;&gt;&lt;a href=&#34;https://vk.com/ksupod&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;❤️ Нажмите здесь, чтобы стать спонсором ❤️&lt;/a&gt;&lt;/h3&gt;
-&lt;h2 id=&#34;лицензия&#34;&gt;Лицензия&lt;/h2&gt;
-&lt;p&gt;Авторские права принадлежат Ксении Подъяровой с 2021 г. по настоящее время.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Управление версиями. Git.</title>
+      <title>Version control. Git.</title>
       <link>https://example.com/post/%D0%BF%D0%BE%D1%81%D1%82/</link>
       <pubDate>Thu, 05 May 2022 00:00:00 +0000</pubDate>
       <guid>https://example.com/post/%D0%BF%D0%BE%D1%81%D1%82/</guid>
-      <description>&lt;h2 id=&#34;краткий-обзор&#34;&gt;Краткий обзор&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;GIT — СИСТЕМА УПРАВЛЕНИЯ ВЕРСИЯМИ&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;GIT — распределённая система управления версиями, созданная Линусом Торвальдсом для управления разработкой ядра Linux и в настоящее время получившая очень широкое распространение в среде разработчиков программного обеспечения.&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Система управления версиями (Version Control System, VCS) — это программное обеспечение для облегчения работы с изменяющейся информацией. Система управления версиями позволяет хранить несколько версий одного и того же документа, при необходимости возвращаться к более ранним версиям, определять, кто и когда сделал то или иное изменение, и многое другое. Такие системы наиболее широко используются при разработке программного обеспечения для хранения исходных кодов разрабатываемой программы.&lt;/p&gt;
-&lt;p&gt;GIT — это одна из таких систем. В GIT используется распределённая модель вместо традиционной клиент-серверной. Таким образом, репозитории GIT не нуждаются в централизованном хранилище: вся история изменения документов хранится на каждом компьютере, в локальном хранилище, и при необходимости отдельные фрагменты истории локального хранилища синхронизируются с аналогичным хранилищем на другом компьютере.&lt;/p&gt;
-&lt;p&gt;На сегодняшний день, GIT стал стандартной системой управления версиями для очень многих разработчиков, а хостинг исходных кодов GitHub — самым крупным подобным сервисом. Примерами проектов, использующих Git, являются ядро Linux, Android, Ruby on Rails, Drupal, Wine, Chromium, Compiz Fusion, jQuery, PHP, MediaWiki и некоторые дистрибутивы Linux&lt;/p&gt;
-&lt;h2 id=&#34;информация&#34;&gt;Информация&lt;/h2&gt;
+      <description>&lt;h2 id=&#34;git---version-control-system&#34;&gt;GIT - VERSION CONTROL SYSTEM&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;GIT is a distributed version control system created by Linus Torvalds to manage the development of the Linux kernel and is currently very widely used in the software development environment.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A Version Control System (VCS) is software that makes it easier to work with changing information. The version control system allows you to store multiple versions of the same document, revert to earlier versions if necessary, determine who made a change and when, and much more. Such systems are most widely used in software development to store the source codes of the program being developed.&lt;/p&gt;
+&lt;p&gt;GIT is one such system. GIT uses a distributed model instead of the traditional client-server model. Thus, GIT repositories do not need a centralized repository: the entire history of document changes is stored on each computer, in local storage, and, if necessary, individual fragments of the local storage history are synchronized with the same storage on another computer.&lt;/p&gt;
+&lt;p&gt;Today, GIT has become the standard version control system for so many developers, and GitHub source code hosting is the largest such service. Examples of projects using Git are the Linux kernel, Android, Ruby on Rails, Drupal, Wine, Chromium, Compiz Fusion, jQuery, PHP, MediaWiki, and some Linux distributions&lt;/p&gt;
+&lt;h2 id=&#34;information&#34;&gt;Information&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;👉 &lt;a href=&#34;https://www.youtube.com/watch?list=PLlvt76SOdoJpIVyVNUdVNTv2k5ajcve6C&amp;amp;v=dCZTEoKzPPI&amp;amp;feature=emb_imp_woyt&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Ссылка на выполнение 1 этапа индивидуального проекта на Youtube&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;📚 &lt;a href=&#34;https://kvpodjhyarova.github.io/post/getting-started/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Мой сайт&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;💬 &lt;a href=&#34;https://vk.com/ksupod&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Вконтакте&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;👉 &lt;a href=&#34;https://www.youtube.com/watch?list=PLlvt76SOdoJpIVyVNUdVNTv2k5ajcve6C&amp;amp;v=dCZTEoKzPPI&amp;amp;feature=emb_imp_woyt&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Link to the implementation of the 1st stage of an individual project on Youtube&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;📚 &lt;a href=&#34;https://kvpodjhyarova.github.io/post/getting-started/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;My website&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;💬 [Vkontakte] (&lt;a href=&#34;https://vk.com/ksupod&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://vk.com/ksupod&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;всем-спасибо-за-внимание&#34;&gt;Всем спасибо за внимание!&lt;/h2&gt;
+&lt;h2 id=&#34;thank-you-all-for-your-attention&#34;&gt;Thank you all for your attention!&lt;/h2&gt;
 </description>
     </item>
     
